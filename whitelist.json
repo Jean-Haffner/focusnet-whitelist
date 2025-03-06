@@ -736,8 +736,7 @@
 	"domain": "uni-mannheim.de",
 	"url": "https://www.uni-mannheim.de",
 	"tags": ["University", "Germany"]
-    }
-xxx
+    },
     {
 	"name": "University of Oxford",
 	"domain": "ox.ac.uk",
@@ -905,8 +904,7 @@ xxx
 	"domain": "epfl.ch",
 	"url": "https://www.epfl.ch",
 	"tags": ["University", "Switzerland"]
-    }
-xxx
+    },
     {
 	"name": "Universiteit Nijmegen",
 	"domain": "ru.nl",
@@ -1062,8 +1060,7 @@ xxx
 	"domain": "unipa.it",
 	"url": "https://www.unipa.it",
 	"tags": ["University", "Italy"]
-    }
-xxx
+    },
     {
 	"name": "Université de Paris",
 	"domain": "u-paris.fr",
@@ -1147,8 +1144,7 @@ xxx
 	"domain": "ucm.es",
 	"url": "https://ucm.es",
 	"tags": ["University", "Spain"]
-    }
-xxx
+    },
     {
 	"name": "Universitad de Lisboa",
 	"domain": "ulisboa.pt",
@@ -1196,8 +1192,7 @@ xxx
 	"domain": "ugent.be",
 	"url": "https://www.ugent.be",
 	"tags": ["University", "Belgium"]
-    }
-xxx
+    },
     {
 	"name": "The University of Sydney",
 	"domain": "sydney.edu.au",
@@ -1761,5 +1756,23 @@ xxx
 	"domain": "cuvillier.de",
 	"url": "https://cuvillier.de",
 	"tag": ["Publisher"]
+    },
+    {
+        "name": "GeoGebra",
+        "domain": "geogebra.org",
+        "url": "https://www.geogebra.org/calculator",
+        "tag": ["Mathematics", "Calculator", "Geometry"]
+    },
+    {
+        "name": "Wolfram Alpha",
+        "domain": "wolframalpha.com",
+        "url": "https://www.wolframalpha.com",
+        "tag": ["Mathematics", "Calculator", "Computational Knowledge", "Search Engine", "#Featured"]
+    },
+    {
+        "name": "Microsoft Math",
+        "domain": "math.microsoft.com",
+        "url": "https://math.microsoft.com",
+        "tag": ["Mathematics", "Calculator"]
     }
 ]
