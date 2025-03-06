@@ -1,1 +1,92 @@
-
+[
+    {
+        "name": "Base Search",
+        "domain": "base-search.net",
+        "url": "https://base-search.net",
+        "tags": ["Search Engine", "Academic Search", "Germany", "#Featured"]
+    },
+    {
+        "name": "DuckDuckGo",
+        "domain": "duckduckgo.com",
+        "url": "https://duckduckgo.com",
+        "tags": ["Search Engine", "Internet Search", "#Featured"]
+    },
+    {
+        "name": "Ecosia",
+        "domain": "ecosia.org",
+        "url": "https://www.ecosia.org",
+        "tags": ["Search Engine", "Internet Search"]
+    },
+    {
+        "name": "InstaGrok",
+        "domain": "instagrok.com",
+        "url": "https://instagrok.com",
+        "tags": ["Search Engine"]
+    },
+    {
+        "name": "OpenMD",
+        "domain": "openmd.com",
+        "url": "https://openmd.com",
+        "tags": ["Academic Search"]
+    },
+    {
+        "name": "RefSeek",
+        "domain": "refseek.com",
+        "url": "https://www.refseek.com",
+        "tags": ["Academic Search", "Search Engine", "#Featured"]
+    },
+    {
+        "name": "MetaGer",
+        "domain": "metager.de",
+        "url": "https://metager.de",
+        "tags": ["Search Engine", "Internet Search", "Germany"]
+    },
+    {
+        "name": "Qwant-Lite",
+        "domain": "lite.qwant.com",
+        "url": "https://lite.qwant.com",
+        "tags": ["Search Engine", "Internet Search"]
+    },
+    {
+        "name": "Startpage",
+        "domain": "startpage.com",
+        "url": "https://www.startpage.com",
+        "tags": ["Search Engine", "Internet Search"]
+    },
+    {
+        "name": "WorldCat",
+        "domain": "worldcat.org",
+        "url": "https://worldcat.org",
+        "tags": ["Search Engine"]
+    },
+    {
+        "name": "MusiPedia",
+        "domain": "musipedia.org",
+        "url": "https://www.musipedia.org",
+        "tags": ["Search Engine", "Music"]
+    },
+    {
+        "name": "SemanticScholar",
+        "domain": "semanticscholar.org",
+        "url": "https://www.semanticscholar.org",
+        "tags": ["Academic Search"]
+    },
+    {
+        "name": "Google Scholar",
+        "domain": "scholar.google.com",
+        "url": "https://scholar.google.com",
+        "tags": ["Academic Search", "Search Engine"]
+    },
+    {
+        "name": "Google Patents",
+        "domain": "patents.google.com",
+        "url": "https://patents.google.com",
+        "tags": ["Database", "Search Engine"]
+    },
+    {
+        "name": "ChronosHub Journals",
+        "domain": "journalfinder.chronoshub.io",
+        "url": "https://journalfinder.chronoshub.io",
+        "tags": ["Database", "Search Engine"]
+    }
+]
