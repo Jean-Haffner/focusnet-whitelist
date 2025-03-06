@@ -1992,6 +1992,12 @@
 	"tags": ["Web Hosting", "Development", "Open Source"]
     },
     {
+	"name": "GitHub Raw Content",
+	"domain": "raw.githubusercontent.com",
+	"url": "https://raw.githubusercontent.com",
+	"tags": ["Code", "Development", "Version Control", "GitHub"]
+    },
+    {
 	"name": "VLC Media Player",
 	"domain": "videolan.org",
 	"url": "https://www.videolan.org",
