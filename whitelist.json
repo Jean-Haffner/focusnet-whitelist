@@ -1689,7 +1689,7 @@
 	"name": "Thalia Bücher GmbH",
 	"domain": "thalia.de",
 	"url": "https://www.thalia.de",
-	"tag": ["Publisher"]
+	"tag": ["Books", "Retail"]
     },
     {
 	"name": "J.B. Metzler",
@@ -1758,21 +1758,255 @@
 	"tag": ["Publisher"]
     },
     {
-        "name": "GeoGebra",
-        "domain": "geogebra.org",
-        "url": "https://www.geogebra.org/calculator",
-        "tag": ["Mathematics", "Calculator", "Geometry"]
+      "name": "Nomos Shop",
+      "domain": "nomos-shop.de",
+      "url": "https://www.nomos-shop.de",
+      "tags": ["Publisher"]
     },
     {
-        "name": "Wolfram Alpha",
-        "domain": "wolframalpha.com",
-        "url": "https://www.wolframalpha.com",
-        "tag": ["Mathematics", "Calculator", "Computational Knowledge", "Search Engine", "#Featured"]
+      "name": "Nomos Verlag",
+      "domain": "nomos.de",
+      "url": "https://www.nomos.de",
+      "tags": ["Publisher"]
     },
     {
-        "name": "Microsoft Math",
-        "domain": "math.microsoft.com",
-        "url": "https://math.microsoft.com",
-        "tag": ["Mathematics", "Calculator"]
+      "name": "Lehmanns Media",
+      "domain": "lehmanns.de",
+      "url": "https://www.lehmanns.de",
+      "tags": ["Books", "Retail"]
+    },
+    {
+      "name": "Klett-Cotta Verlag",
+      "domain": "klett-cotta.de",
+      "url": "https://www.klett-cotta.de",
+      "tags": ["Publisher"]
+    },
+    {
+	"name": "GeoGebra",
+	"domain": "geogebra.org",
+	"url": "https://www.geogebra.org/calculator",
+	"tag": ["Mathematics", "Calculator", "Geometry"]
+    },
+    {
+	"name": "Wolfram Alpha",
+	"domain": "wolframalpha.com",
+	"url": "https://www.wolframalpha.com",
+	"tag": ["Mathematics", "Calculator", "Computational Knowledge", "Search Engine", "#Featured"]
+    },
+    {
+	"name": "Microsoft Math",
+	"domain": "math.microsoft.com",
+	"url": "https://math.microsoft.com",
+	"tag": ["Mathematics", "Calculator"]
+    },
+    {
+	"name": "Atomuhr (DE)",
+	"domain": "uhr.ptb.de",
+	"url": "https://uhr.ptb.de",
+	"tag": ["Time", "Government", "Germany"]
+    },
+    {
+	"name": "Greenwich Mean Time",
+	"domain": "greenwichmeantime.com",
+	"url": "https://greenwichmeantime.com",
+	"tag": ["Time", "#Featured"]
+    },
+    {
+	"name": "Time and Date",
+	"domain": "timeanddate.com",
+	"url": "https://www.timeanddate.com",
+	"tag": ["Time", "Calendar"]
+    },
+    {
+	"name": "Zeit und Datum",
+	"domain": "timeanddate.de",
+	"url": "https://www.timeanddate.de",
+	"tag": ["Time", "Calendar"]
+    },
+    {
+	"name": "Time.is",
+	"domain": "time.is",
+	"url": "https://time.is",
+	"tag": ["Time"]
+    },
+    {
+	"name": "Google Earth",
+	"domain": "earth.google.com",
+	"url": "https://earth.google.com",
+	"tag": ["Maps", "Geography"]
+    },
+    {
+	"name": "OpenAIP",
+	"domain": "openaip.net",
+	"url": "https://www.openaip.net",
+	"tag": ["Maps", "Aviation"]
+    },
+    {
+	"name": "OpenStreetMap",
+	"domain": "openstreetmap.org",
+	"url": "https://www.openstreetmap.org",
+	"tag": ["Maps", "Geography"]
+    },
+    {
+	"name": "OpenFlightMaps",
+	"domain": "openflightmaps.org",
+	"url": "https://www.openflightmaps.org",
+	"tag": ["Maps", "Navigation"]
+    },
+    {
+	"name": "OpenSeaMap",
+	"domain": "openseamap.org",
+	"url": "https://openseamap.org",
+	"tag": ["Maps", "Navigation"]
+    },
+    {
+	"name": "Musicmap",
+	"domain": "musicmap.info",
+	"url": "https://musicmap.info",
+	"tag": ["Maps", "Music"]
+    },
+    {
+	"name": "BlueJ",
+	"domain": "bluej.org",
+	"url": "https://www.bluej.org",
+	"tags": ["Software", "Programming", "Education"]
+    },
+    {
+	"name": "Kernel.org",
+	"domain": "kernel.org",
+	"url": "https://www.kernel.org",
+	"tags": ["Software", "Linux", "Open Source"]
+    },
+    {
+	"name": "Moodle",
+	"domain": "moodle.org",
+	"url": "https://www.moodle.org",
+	"tags": ["Education", "E-learning", "Software"]
+    },
+    {
+	"name": "Zorin OS",
+	"domain": "zorin.com",
+	"url": "https://www.zorin.com",
+	"tags": ["Operating System", "Linux", "Software"]
+    },
+    {
+	"name": "Linux Mint",
+	"domain": "linuxmint.com",
+	"url": "https://www.linuxmint.com",
+	"tags": ["Operating System", "Linux", "Open Source"]
+    },
+    {
+	"name": "Session Messenger",
+	"domain": "getsession.org",
+	"url": "https://www.getsession.org",
+	"tags": ["Privacy", "Messaging", "Security"]
+    },
+    {
+	"name": "Native Instruments",
+	"domain": "native-instruments.com",
+	"url": "https://www.native-instruments.com",
+	"tags": ["Music", "Audio Software", "Production"]
+    },
+    {
+	"name": "Steinberg",
+	"domain": "steinberg.net",
+	"url": "https://www.steinberg.net",
+	"tags": ["Music", "Audio Software", "Production"]
+    },
+    {
+	"name": "Spitfire Audio",
+	"domain": "spitfireaudio.com",
+	"url": "https://www.spitfireaudio.com",
+	"tags": ["Music", "Audio Samples", "Production"]
+    },
+    {
+	"name": "Orchestral Tools",
+	"domain": "orchestraltools.com",
+	"url": "https://www.orchestraltools.com",
+	"tags": ["Music", "Audio Samples", "Production"]
+    },
+    {
+	"name": "MIDI Association",
+	"domain": "midi.org",
+	"url": "https://www.midi.org",
+	"tags": ["Music", "Technology", "MIDI"]
+    },
+    {
+	"name": "Python",
+	"domain": "python.org",
+	"url": "https://www.python.org",
+	"tags": ["Programming", "Software", "Open Source"]
+    },
+    {
+	"name": "Audacity",
+	"domain": "audacityteam.org",
+	"url": "https://www.audacityteam.org",
+	"tags": ["Music", "Audio Editing", "Open Source"]
+    },
+    {
+	"name": "Ubuntu",
+	"domain": "ubuntu.com",
+	"url": "https://www.ubuntu.com",
+	"tags": ["Operating System", "Linux", "Open Source"]
+    },
+    {
+	"name": "Linux Mint",
+	"domain": "linuxmint.com",
+	"url": "https://www.linuxmint.com",
+	"tags": ["Operating System", "Linux", "Open Source"]
+    },
+    {
+	"name": "Trello",
+	"domain": "trello.com",
+	"url": "https://www.trello.com",
+	"tags": ["Productivity", "Project Management", "Collaboration"]
+    },
+    {
+	"name": "Thunderbird",
+	"domain": "thunderbird.net",
+	"url": "https://www.thunderbird.net",
+	"tags": ["Email", "Software", "Open Source"]
+    },
+    {
+	"name": "Mozilla",
+	"domain": "mozilla.org",
+	"url": "https://www.mozilla.org",
+	"tags": ["Web Browser", "Software", "Open Source"]
+    },
+    {
+	"name": "GIMP",
+	"domain": "gimp.org",
+	"url": "https://www.gimp.org",
+	"tags": ["Graphics", "Software", "Open Source"]
+    },
+    {
+	"name": "GitHub",
+	"domain": "github.com",
+	"url": "https://www.github.com",
+	"tags": ["Programming", "Version Control", "Open Source"]
+    },
+    {
+	"name": "GitHub Pages",
+	"domain": "github.io",
+	"url": "https://www.github.io",
+	"tags": ["Web Hosting", "Development", "Open Source"]
+    },
+    {
+	"name": "VLC Media Player",
+	"domain": "videolan.org",
+	"url": "https://www.videolan.org",
+	"tags": ["Media Player", "Software", "Open Source"]
+    },
+    {
+	"name": "Pianobook",
+	"domain": "pianobook.co.uk",
+	"url": "https://www.pianobook.co.uk",
+	"tags": ["Music", "Audio Samples", "Community"]
+    },
+    {
+	"name": "uBlock Origin",
+	"domain": "ublockorigin.com",
+	"url": "https://www.ublockorigin.com",
+	"tags": ["Privacy", "Ad Blocker", "Security"]
     }
 ]
