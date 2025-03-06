@@ -1,92 +1,1592 @@
 [
     {
-        "name": "Base Search",
-        "domain": "base-search.net",
-        "url": "https://base-search.net",
-        "tags": ["Search Engine", "Academic Search", "Germany", "#Featured"]
+	"name": "Base Search",
+	"domain": "base-search.net",
+	"url": "https://base-search.net",
+	"tags": ["Search Engine", "Academic Search", "Germany", "#Featured"]
     },
     {
-        "name": "DuckDuckGo",
-        "domain": "duckduckgo.com",
-        "url": "https://duckduckgo.com",
-        "tags": ["Search Engine", "Internet Search", "#Featured"]
+	"name": "DuckDuckGo",
+	"domain": "duckduckgo.com",
+	"url": "https://duckduckgo.com",
+	"tags": ["Search Engine", "Internet Search", "#Featured"]
     },
     {
-        "name": "Ecosia",
-        "domain": "ecosia.org",
-        "url": "https://www.ecosia.org",
-        "tags": ["Search Engine", "Internet Search"]
+	"name": "Ecosia",
+	"domain": "ecosia.org",
+	"url": "https://www.ecosia.org",
+	"tags": ["Search Engine", "Internet Search"]
     },
     {
-        "name": "InstaGrok",
-        "domain": "instagrok.com",
-        "url": "https://instagrok.com",
-        "tags": ["Search Engine"]
+	"name": "InstaGrok",
+	"domain": "instagrok.com",
+	"url": "https://instagrok.com",
+	"tags": ["Search Engine"]
     },
     {
-        "name": "OpenMD",
-        "domain": "openmd.com",
-        "url": "https://openmd.com",
-        "tags": ["Academic Search"]
+	"name": "OpenMD",
+	"domain": "openmd.com",
+	"url": "https://openmd.com",
+	"tags": ["Academic Search"]
     },
     {
-        "name": "RefSeek",
-        "domain": "refseek.com",
-        "url": "https://www.refseek.com",
-        "tags": ["Academic Search", "Search Engine", "#Featured"]
+	"name": "RefSeek",
+	"domain": "refseek.com",
+	"url": "https://www.refseek.com",
+	"tags": ["Academic Search", "Search Engine", "#Featured"]
     },
     {
-        "name": "MetaGer",
-        "domain": "metager.de",
-        "url": "https://metager.de",
-        "tags": ["Search Engine", "Internet Search", "Germany"]
+	"name": "MetaGer",
+	"domain": "metager.de",
+	"url": "https://metager.de",
+	"tags": ["Search Engine", "Internet Search", "Germany"]
     },
     {
-        "name": "Qwant-Lite",
-        "domain": "lite.qwant.com",
-        "url": "https://lite.qwant.com",
-        "tags": ["Search Engine", "Internet Search"]
+	"name": "Qwant-Lite",
+	"domain": "lite.qwant.com",
+	"url": "https://lite.qwant.com",
+	"tags": ["Search Engine", "Internet Search"]
     },
     {
-        "name": "Startpage",
-        "domain": "startpage.com",
-        "url": "https://www.startpage.com",
-        "tags": ["Search Engine", "Internet Search"]
+	"name": "Startpage",
+	"domain": "startpage.com",
+	"url": "https://www.startpage.com",
+	"tags": ["Search Engine", "Internet Search"]
     },
     {
-        "name": "WorldCat",
-        "domain": "worldcat.org",
-        "url": "https://worldcat.org",
-        "tags": ["Search Engine"]
+	"name": "WorldCat",
+	"domain": "worldcat.org",
+	"url": "https://worldcat.org",
+	"tags": ["Search Engine"]
     },
     {
-        "name": "MusiPedia",
-        "domain": "musipedia.org",
-        "url": "https://www.musipedia.org",
-        "tags": ["Search Engine", "Music"]
+	"name": "MusiPedia",
+	"domain": "musipedia.org",
+	"url": "https://www.musipedia.org",
+	"tags": ["Search Engine", "Music"]
     },
     {
-        "name": "SemanticScholar",
-        "domain": "semanticscholar.org",
-        "url": "https://www.semanticscholar.org",
-        "tags": ["Academic Search"]
+	"name": "SemanticScholar",
+	"domain": "semanticscholar.org",
+	"url": "https://www.semanticscholar.org",
+	"tags": ["Academic Search"]
     },
     {
-        "name": "Google Scholar",
-        "domain": "scholar.google.com",
-        "url": "https://scholar.google.com",
-        "tags": ["Academic Search", "Search Engine"]
+	"name": "Google Scholar",
+	"domain": "scholar.google.com",
+	"url": "https://scholar.google.com",
+	"tags": ["Academic Search", "Search Engine"]
     },
     {
-        "name": "Google Patents",
-        "domain": "patents.google.com",
-        "url": "https://patents.google.com",
-        "tags": ["Database", "Search Engine"]
+	"name": "Google Patents",
+	"domain": "patents.google.com",
+	"url": "https://patents.google.com",
+	"tags": ["Database", "Search Engine"]
     },
     {
-        "name": "ChronosHub Journals",
-        "domain": "journalfinder.chronoshub.io",
-        "url": "https://journalfinder.chronoshub.io",
-        "tags": ["Database", "Search Engine"]
+	"name": "ChronosHub Journals",
+	"domain": "journalfinder.chronoshub.io",
+	"url": "https://journalfinder.chronoshub.io",
+	"tags": ["Database", "Search Engine"]
+    }
+    {
+	"name": "Britannica",
+	"domain": "britannica.com",
+	"url": "https://www.britannica.com",
+	"tags": ["Encyclopedia", "United Kingdom"]
+    },
+    {
+	"name": "ComputerLanguage",
+	"domain": "computerlanguage.com",
+	"url": "https://www.computerlanguage.com",
+	"tags": ["Encyclopedia"]
+    },
+    {
+	"name": "Credo Reference",
+	"domain": "credoreference.com",
+	"url": "https://search.credoreference.com",
+	"tags": ["Encyclopedia"]
+    },
+    {
+	"name": "Encyclopedia Mythica",
+	"domain": "pantheon.org",
+	"url": "https://pantheon.org",
+	"tags": ["Encyclopedia", "Mythology"]
+    },
+    {
+	"name": "Encyclopedia of Life",
+	"domain": "eol.org",
+	"url": "https://eol.org",
+	"tags": ["Encyclopedia", "Nature"]
+    },
+    {
+	"name": "Encyclopedia of Philosophy",
+	"domain": "iep.utm.edu",
+	"url": "https://iep.utm.edu",
+	"tags": ["Encyclopedia", "Philosophy", "Academic Search"]
+    },
+    {
+	"name": "Encyclopedia.com",
+	"domain": "encyclopedia.com",
+	"url": "https://www.encyclopedia.com",
+	"tags": ["Encyclopedia", "Academic Search"]
+    },
+    {
+	"name": "Europeana",
+	"domain": "europeana.eu",
+	"url": "https://www.europeana.eu",
+	"tags": ["Encyclopedia", "European Union", "Culture"]
+    },
+    {
+	"name": "Oxford Bibliographies",
+	"domain": "oxfordbibliographies.com",
+	"url": "https://www.oxfordbibliographies.com",
+	"tags": ["Encyclopedia", "Academic Search"]
+    },
+    {
+	"name": "Scholarpedia",
+	"domain": "scholarpedia.org",
+	"url": "http://www.scholarpedia.org",
+	"tags": ["Encyclopedia", "Academic Search"]
+    },
+    {
+	"name": "Stanford Encyclopedia of Philosophy",
+	"domain": "plato.stanford.edu",
+	"url": "https://plato.stanford.edu",
+	"tags": ["Encyclopedia", "Academic Search", "Philosophy", "#Featured"]
+    },
+    {
+	"name": "The Canadian Encyclopedia",
+	"domain": "thecanadianencyclopedia.ca",
+	"url": "https://thecanadianencyclopedia.ca",
+	"tags": ["Encyclopedia", "Canada"]
+    },
+    {
+	"name": "Wikipedia",
+	"domain": "wikipedia.org",
+	"url": "https://www.wikipedia.org",
+	"tags": ["Encyclopedia", "#Featured"]
+    },
+    {
+	"name": "Wikipedia [DE]",
+	"domain": "wikipedia.de",
+	"url": "https://www.wikipedia.de",
+	"tags": ["Encyclopedia", "Germany"]
+    },
+    {
+	"name": "Routledge Encyclopedia of Philosophy",
+	"domain": "rep.routledge.com",
+	"url": "https://www.rep.routledge.com",
+	"tags": ["Encyclopedia", "Academic Search", "Philosophy"]
+    },
+    {
+	"name": "Encyclopedia of New Zealand",
+	"domain": "teara.govt.nz",
+	"url": "https://teara.govt.nz",
+	"tags": ["Encyclopedia", "New Zealand", "Culture", "Government"]
+    }
+    {
+	"name": "British Library",
+	"domain": "bl.uk",
+	"url": "https://www.bl.uk",
+	"tags": ["Library", "United Kingdom"]
+    },
+    {
+	"name": "Bibliothèque nationale de France",
+	"domain": "bnf.fr",
+	"url": "https://www.bnf.fr",
+	"tags": ["Library", "France"]
+    },
+    {
+	"name": "CORE (COnnecting REpositories)",
+	"domain": "core.ac.uk",
+	"url": "https://core.ac.uk",
+	"tags": ["Research", "Academic"]
+    },
+    {
+	"name": "Deutsche Nationalbibliothek",
+	"domain": "dnb.de",
+	"url": "https://www.dnb.de",
+	"tags": ["Library", "Germany"]
+    },
+    {
+	"name": "Deutsche Digitale Bibliothek",
+	"domain": "deutsche-digitale-bibliothek.de",
+	"url": "https://www.deutsche-digitale-bibliothek.de",
+	"tags": ["Library", "Germany"]
+    },
+    {
+	"name": "Project Gutenberg",
+	"domain": "gutenberg.org",
+	"url": "https://www.gutenberg.org",
+	"tags": ["Public Domain", "Literature"]
+    },
+    {
+	"name": "Projekt Gutenberg-DE",
+	"domain": "projekt-gutenberg.org",
+	"url": "https://www.projekt-gutenberg.org",
+	"tags": ["Public Domain", "Literature"]
+    },
+    {
+	"name": "PhilPapers",
+	"domain": "philpapers.org",
+	"url": "https://philpapers.org",
+	"tags": ["Philosophy", "Research"]
+    },
+    {
+	"name": "Wikibooks",
+	"domain": "wikibooks.org",
+	"url": "https://www.wikibooks.org",
+	"tags": ["Education", "Open Content"]
+    },
+    {
+	"name": "Zeno.org",
+	"domain": "zeno.org",
+	"url": "https://www.zeno.org",
+	"tags": ["Literature"]
+    },
+    {
+	"name": "CIA World Factbook",
+	"domain": "cia.gov/the-world-factbook",
+	"url": "https://www.cia.gov/the-world-factbook",
+	"tags": ["Reference", "Country Information"]
+    },
+    {
+	"name": "UN iLibrary",
+	"domain": "un-ilibrary.org",
+	"url": "https://www.un-ilibrary.org",
+	"tags": ["United Nations"]
+    },
+    {
+	"name": "Open Library",
+	"domain": "openlibrary.org",
+	"url": "https://openlibrary.org",
+	"tags": ["Books", "Online Library"]
+    },
+    {
+	"name": "NIH - National Institutes of Health",
+	"domain": "nih.gov",
+	"url": "https://www.nih.gov",
+	"tags": ["Medical Research", "Health"]
+    },
+    {
+	"name": "Wikisource",
+	"domain": "wikisource.org",
+	"url": "https://wikisource.org",
+	"tags": ["Reference", "Free Content"]
+    },
+    {
+	"name": "Copernicus Publications",
+	"domain": "copernicus.org",
+	"url": "https://www.copernicus.org",
+	"tags": ["Scientific Journals", "Open Access"]
+    },
+    {
+	"name": "John Carter Brown Library",
+	"domain": "jcblibrary.org",
+	"url": "https://www.jcblibrary.org",
+	"tags": ["Library", "Americana"]
+    },
+    {
+	"name": "ScienceOpen",
+	"domain": "scienceopen.com",
+	"url": "https://www.scienceopen.com",
+	"tags": ["Research", "Open Access"]
+    },
+    {
+	"name": "Université libre de Bruxelles",
+	"domain": "ulb.be",
+	"url": "https://www.ulb.be",
+	"tags": ["University", "Belgium"]
+    },
+    {
+	"name": "Federal Chancellery of Switzerland",
+	"domain": "nb.admin.ch",
+	"url": "https://www.nb.admin.ch",
+	"tags": ["Government", "Switzerland"]
+    },
+    {
+	"name": "Austrian National Library",
+	"domain": "onb.ac.at",
+	"url": "https://www.onb.ac.at",
+	"tags": ["Library", "Austria"]
+    },
+    {
+	"name": "Vatican Library",
+	"domain": "vaticanlibrary.va",
+	"url": "https://www.vaticanlibrary.va",
+	"tags": ["Library", "Vatican City"]
+    },
+    {
+	"name": "Boston Public Library",
+	"domain": "bpl.org",
+	"url": "https://www.bpl.org",
+	"tags": ["Library", "United States"]
+    },
+    {
+	"name": "New York Public Library",
+	"domain": "nypl.org",
+	"url": "https://www.nypl.org",
+	"tags": ["Library", "United States"]
+    },
+    {
+	"name": "Seattle Public Library",
+	"domain": "spl.org",
+	"url": "https://www.spl.org",
+	"tags": ["Library", "United States"]
+    },
+    {
+	"name": "Stiftsbezirk St. Gallen",
+	"domain": "stiftsbezirk.ch",
+	"url": "https://www.stiftsbezirk.ch",
+	"tags": ["Monastery", "Switzerland"]
+    },
+    {
+	"name": "National Library of Sweden",
+	"domain": "kb.se",
+	"url": "https://www.kb.se",
+	"tags": ["Library", "Sweden"]
+    },
+    {
+	"name": "Stift Admont",
+	"domain": "stiftadmont.at",
+	"url": "https://www.stiftadmont.at",
+	"tags": ["Monastery", "Austria"]
+    },
+    {
+	"name": "The Morgan Library Museum",
+	"domain": "themorgan.org",
+	"url": "https://www.themorgan.org",
+	"tags": ["Library", "Art Museum"]
+    },
+    {
+	"name": "Royal Danish Library",
+	"domain": "kb.dk",
+	"url": "https://www.kb.dk",
+	"tags": ["Library", "Denmark"]
+    }
+    {
+	"name": "New Zealand Tertiary College Students' Association",
+	"domain": "nztcs.org.nz",
+	"url": "https://nztcs.org.nz",
+	"tags": ["Student Association", "New Zealand"]
+    },
+    {
+	"name": "INPhO Project",
+	"domain": "inphoproject.org",
+	"url": "https://inphoproject.org",
+	"tags": ["Philosophy", "Ontology"]
+    },
+    {
+	"name": "ORCID",
+	"domain": "orcid.org",
+	"url": "https://orcid.org",
+	"tags": ["Researcher Identifier", "Academic"]
+    },
+    {
+	"name": "World History Encyclopedia",
+	"domain": "worldhistory.org",
+	"url": "https://www.worldhistory.org",
+	"tags": ["History", "Reference"]
+    }
+    {
+	"name": "DeepL",
+	"domain": "deepl.com",
+	"url": "https://www.deepl.com",
+	"tags": ["Translation", "Germany", "#FocusNet Selection"]
+    },
+    {
+	"name": "AnkiWeb",
+	"domain": "ankiweb.net",
+	"url": "https://ankiweb.net",
+	"tags": ["Study Tools"]
+    },
+    {
+	"name": "Prezi",
+	"domain": "prezi.com",
+	"url": "https://prezi.com",
+	"tags": ["Study Tools", "Presentation"]
+    },
+    {
+	"name": "MarinaraTimer",
+	"domain": "marinaratimer.com",
+	"url": "https://www.marinaratimer.com",
+	"tags": ["Study Tools", "Time"]
+    },
+    {
+	"name": "Hochschulkompass",
+	"domain": "hochschulkompass.de",
+	"url": "https://www.hochschulkompass.de/en.html",
+	"tags": ["Study Tools", "Germany"]
+    },
+    {
+	"name": "Scholars Direct",
+	"domain": "scholarsdirect.com",
+	"url": "https://scholarsdirect.com",
+	"tags": ["Study Tools"]
+    },
+    {
+	"name": "Obsidian",
+	"domain": "obsidian.md",
+	"url": "https://obsidian.md",
+	"tags": ["Productivity", "Study Tools", "Software"]
+    }
+xxx
+    {
+	"name": "Universität Bonn",
+	"domain": "uni-bonn.de",
+	"url": "https://www.uni-bonn.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Köln",
+	"domain": "uni-koeln.de",
+	"url": "https://www.uni-koeln.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Heidelberg",
+	"domain": "uni-heidelberg.de",
+	"url": "https://www.uni-heidelberg.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "HU Berlin",
+	"domain": "hu-berlin.de",
+	"url": "https://www.hu-berlin.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Bochum",
+	"domain": "ruhr-uni-bochum.de",
+	"url": "https://www.ruhr-uni-bochum.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Oldenburg",
+	"domain": "uol.de",
+	"url": "https://uol.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "RWTH Aachen",
+	"domain": "rwth-aachen.de",
+	"url": "https://www.rwth-aachen.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Göttingen",
+	"domain": "uni-goettingen.de",
+	"url": "https://uni-goettingen.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Münster",
+	"domain": "uni-muenster.de",
+	"url": "https://www.uni-muenster.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Mainz",
+	"domain": "uni-mainz.de",
+	"url": "https://www.uni-mainz.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Frankfurt",
+	"domain": "uni-frankfurt.de",
+	"url": "https://www.uni-frankfurt.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "TU Darmstadt",
+	"domain": "tu-darmstadt.de",
+	"url": "https://www.tu-darmstadt.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Hamburg",
+	"domain": "uni-hamburg.de",
+	"url": "https://www.uni-hamburg.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Bremen",
+	"domain": "uni-bremen.de",
+	"url": "https://www.uni-bremen.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Trier",
+	"domain": "uni-trier.de",
+	"url": "https://www.uni-trier.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "TU Dresden",
+	"domain": "tu-dresden.de",
+	"url": "https://tu-dresden.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Leipzig",
+	"domain": "uni-leipzig.de",
+	"url": "https://www.uni-leipzig.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Jena",
+	"domain": "uni-jena.de",
+	"url": "https://www.uni-jena.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "TU München",
+	"domain": "tum.de",
+	"url": "https://www.tum.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität München",
+	"domain": "lmu.de",
+	"url": "https://www.lmu.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Hochschule RheinMain",
+	"domain": "hs-rm.de",
+	"url": "https://www.hs-rm.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Potsdam",
+	"domain": "uni-potsdam.de",
+	"url": "https://www.uni-potsdam.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Kiel",
+	"domain": "uni-kiel.de",
+	"url": "https://www.uni-kiel.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Bielefeld",
+	"domain": "uni-bielefeld.de",
+	"url": "https://www.uni-bielefeld.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Marburg",
+	"domain": "uni-marburg.de",
+	"url": "https://www.uni-marburg.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Düsseldorf",
+	"domain": "hhu.de",
+	"url": "https://www.hhu.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Paderborn",
+	"domain": "uni-paderborn.de",
+	"url": "https://www.uni-paderborn.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität des Saarlandes",
+	"domain": "uni-saarland.de",
+	"url": "https://www.uni-saarland.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Lüneburg",
+	"domain": "leuphana.de",
+	"url": "https://www.leuphana.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Würzburg",
+	"domain": "uni-wuerzburg.de",
+	"url": "https://www.uni-wuerzburg.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Konstanz",
+	"domain": "uni-konstanz.de",
+	"url": "https://www.uni-konstanz.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Ulm",
+	"domain": "uni-ulm.de",
+	"url": "https://www.uni-ulm.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "TU Braunschweig",
+	"domain": "tu-braunschweig.de",
+	"url": "https://www.tu-braunschweig.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Regensburg",
+	"domain": "uni-regensburg.de",
+	"url": "https://www.uni-regensburg.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Freiburg",
+	"domain": "uni-freiburg.de",
+	"url": "https://uni-freiburg.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Tübingen",
+	"domain": "uni-tuebingen.de",
+	"url": "https://uni-tuebingen.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Hochschule Bonn-Rhein-Sieg",
+	"domain": "h-brs.de",
+	"url": "https://www.h-brs.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Erlangen-Nürnberg",
+	"domain": "fau.de",
+	"url": "https://www.fau.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Erlangen-Nürnberg [EU]",
+	"domain": "fau.eu",
+	"url": "https://www.fau.eu",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Rheinland-Pfälzische TU",
+	"domain": "rptu.de",
+	"url": "https://rptu.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Koblenz",
+	"domain": "uni-koblenz.de",
+	"url": "https://www.uni-koblenz.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Wuppertal",
+	"domain": "uni-wuppertal.de",
+	"url": "https://www.uni-wuppertal.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Weimar",
+	"domain": "uni-weimar.de",
+	"url": "https://www.uni-weimar.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Passau",
+	"domain": "uni-passau.de",
+	"url": "https://www.uni-passau.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Kassel",
+	"domain": "uni-kassel.de",
+	"url": "https://www.uni-kassel.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Hochschule für Philosophie",
+	"domain": "hfph.de",
+	"url": "https://www.hfph.de",
+	"tags": ["University", "Germany", "Philosophy"]
+    },
+    {
+	"name": "Universität Halle-Wittenberg",
+	"domain": "uni-halle.de",
+	"url": "https://www.uni-halle.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Magdeburg",
+	"domain": "ovgu.de",
+	"url": "https://www.ovgu.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Bamberg",
+	"domain": "uni-bamberg.de",
+	"url": "https://www.uni-bamberg.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Augsburg",
+	"domain": "uni-augsburg.de",
+	"url": "https://www.uni-augsburg.de",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "Universität Mannheim",
+	"domain": "uni-mannheim.de",
+	"url": "https://www.uni-mannheim.de",
+	"tags": ["University", "Germany"]
+    }
+xxx
+    {
+	"name": "University of Oxford",
+	"domain": "ox.ac.uk",
+	"url": "https://www.ox.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Cambridge",
+	"domain": "cam.ac.uk",
+	"url": "https://www.cam.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "King's College London",
+	"domain": "kcl.ac.uk",
+	"url": "https://www.kcl.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Edinburgh",
+	"domain": "ed.ac.uk",
+	"url": "https://www.ed.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "Imperial College London",
+	"domain": "imperial.ac.uk",
+	"url": "https://www.imperial.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "London's Global University",
+	"domain": "ucl.ac.uk",
+	"url": "https://www.ucl.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Glasgow",
+	"domain": "gla.ac.uk",
+	"url": "https://www.gla.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of St.Andrews",
+	"domain": "st-andrews.ac.uk",
+	"url": "https://www.st-andrews.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Reading",
+	"domain": "reading.ac.uk",
+	"url": "https://www.reading.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Leicester",
+	"domain": "le.ac.uk",
+	"url": "https://le.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "London School of Economics",
+	"domain": "lse.ac.uk",
+	"url": "https://www.lse.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "Swansea University",
+	"domain": "www.swansea.ac.uk",
+	"url": "https://www.swansea.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "The Open University",
+	"domain": "open.ac.uk",
+	"url": "https://www.open.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Surrey",
+	"domain": "surrey.ac.uk",
+	"url": "https://www.surrey.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Leeds",
+	"domain": "leeds.ac.uk",
+	"url": "https://www.leeds.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Dundee",
+	"domain": "dundee.ac.uk",
+	"url": "https://www.dundee.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    },
+    {
+	"name": "University of Sheffield",
+	"domain": "sheffield.ac.uk",
+	"url": "https://www.sheffield.ac.uk",
+	"tags": ["University", "United Kingdom"]
+    }
+    {
+	"name": "Trinity College Dublin",
+	"domain": "tcd.ie",
+	"url": "https://www.tcd.ie",
+	"tags": ["University", "Ireland"]
+    },
+    {
+	"name": "University of Otago",
+	"domain": "otago.ac.nz",
+	"url": "https://www.otago.ac.nz",
+	"tags": ["University", "New Zealand"]
+    },
+    {
+	"name": "University of Auckland",
+	"domain": "auckland.ac.nz",
+	"url": "https://www.auckland.ac.nz",
+	"tags": ["University", "New Zealand"]
+    },
+    {
+	"name": "University of Canterbury",
+	"domain": "canterbury.ac.nz",
+	"url": "https://canterbury.ac.nz",
+	"tags": ["University", "New Zealand"]
+    },
+    {
+	"name": "Massey University",
+	"domain": "massey.ac.nz",
+	"url": "https://www.massey.ac.nz",
+	"tags": ["University", "New Zealand"]
+    }
+    {
+	"name": "Universität Zürich",
+	"domain": "uzh.ch",
+	"url": "https://uzh.ch",
+	"tags": ["University", "Switzerland"]
+    },
+    {
+	"name": "ETH Zürich",
+	"domain": "ethz.ch",
+	"url": "https://ethz.ch",
+	"tags": ["University", "Switzerland"]
+    },
+    {
+	"name": "Universität Bern",
+	"domain": "unibe.ch",
+	"url": "https://www.unibe.ch",
+	"tags": ["University", "Switzerland"]
+    },
+    {
+	"name": "Universität Basel",
+	"domain": "unibas.ch",
+	"url": "https://www.unibas.ch",
+	"tags": ["University", "Switzerland"]
+    },
+    {
+	"name": "Universite de Geneve",
+	"domain": "unige.ch",
+	"url": "https://www.unige.ch",
+	"tags": ["University", "Switzerland"]
+    },
+    {
+	"name": "ETH Lausanne",
+	"domain": "epfl.ch",
+	"url": "https://www.epfl.ch",
+	"tags": ["University", "Switzerland"]
+    }
+xxx
+    {
+	"name": "Universiteit Nijmegen",
+	"domain": "ru.nl",
+	"url": "https://www.ru.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "Universiteit Utrecht",
+	"domain": "uu.nl",
+	"url": "https://www.uu.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "Universiteit van Amsterdam",
+	"domain": "uva.nl",
+	"url": "https://www.uva.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "Universiteit Rotterdam",
+	"domain": "eur.nl",
+	"url": "https://www.eur.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "TU Eindhoven",
+	"domain": "tue.nl",
+	"url": "https://www.tue.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "Universiteit Maastricht",
+	"domain": "maastrichtuniversity.nl",
+	"url": "https://www.maastrichtuniversity.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "Universiteit Wageningen",
+	"domain": "wur.nl",
+	"url": "https://www.wur.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "Universiteit Amsterdam",
+	"domain": "vu.nl",
+	"url": "https://www.vu.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "TU Delft",
+	"domain": "tudelft.nl",
+	"url": "https://www.tudelft.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "Universiteit Leiden",
+	"domain": "universiteitleiden.nl",
+	"url": "https://www.universiteitleiden.nl",
+	"tags": ["University", "Netherlands"]
+    },
+    {
+	"name": "Universiteit Groningen",
+	"domain": "rug.nl",
+	"url": "https://www.rug.nl",
+	"tags": ["University", "Netherlands"]
+    }
+    {
+	"name": "University of Ottawa",
+	"domain": "uottawa.ca",
+	"url": "https://www.uottawa.ca",
+	"tags": ["University", "Canada"]
+    },
+    {
+	"name": "University of Toronto",
+	"domain": "utoronto.ca",
+	"url": "https://www.utoronto.ca",
+	"tags": ["University", "Canada"]
+    },
+    {
+	"name": "University of British Columbia",
+	"domain": "ubc.ca",
+	"url": "https://www.ubc.ca",
+	"tags": ["University", "Canada"]
+    },
+    {
+	"name": "McGill University",
+	"domain": "mcgill.ca",
+	"url": "https://www.mcgill.ca",
+	"tags": ["University", "Canada"]
+    },
+    {
+	"name": "McMaster University",
+	"domain": "mcmaster.ca",
+	"url": "https://www.mcmaster.ca",
+	"tags": ["University", "Canada"]
+    },
+    {
+	"name": "University of Waterloo",
+	"domain": "uwaterloo.ca",
+	"url": "https://www.uwaterloo.ca",
+	"tags": ["University", "Canada"]
+    },
+    {
+	"name": "Universite Laval",
+	"domain": "ulaval.ca",
+	"url": "https://www.ulaval.ca",
+	"tags": ["University", "Canada"]
+    },
+    {
+	"name": "University of Alberta",
+	"domain": "ualberta.ca",
+	"url": "https://www.ualberta.ca",
+	"tags": ["University", "Canada"]
+    }
+    {
+	"name": "Università degli Studi di Firenze",
+	"domain": "unifi.it",
+	"url": "https://www.unifi.it",
+	"tags": ["University", "Italy"]
+    },
+    {
+	"name": "Università di Bologna",
+	"domain": "unibo.it",
+	"url": "https://www.unibo.it",
+	"tags": ["University", "Italy"]
+    },
+    {
+	"name": "Università degli Studi di Milano",
+	"domain": "unimi.it",
+	"url": "https://www.unimi.it",
+	"tags": ["University", "Italy"]
+    },
+    {
+	"name": "Università degli Studi di Torino",
+	"domain": "unito.it",
+	"url": "https://www.unito.it",
+	"tags": ["University", "Italy"]
+    },
+    {
+	"name": "Università degli Studi di Padova",
+	"domain": "unipd.it",
+	"url": "https://www.unipd.it",
+	"tags": ["University", "Italy"]
+    },
+    {
+	"name": "Sapienza Università di Roma",
+	"domain": "uniroma1.it",
+	"url": "https://www.uniroma1.it",
+	"tags": ["University", "Italy"]
+    },
+    {
+	"name": "Università degli Studi di Palermo",
+	"domain": "unipa.it",
+	"url": "https://www.unipa.it",
+	"tags": ["University", "Italy"]
+    }
+xxx
+    {
+	"name": "Université de Paris",
+	"domain": "u-paris.fr",
+	"url": "https://u-paris.fr",
+	"tags": ["University", "France"]
+    },
+    {
+	"name": "Université de Poitiers",
+	"domain": "univ-poitiers.fr",
+	"url": "https://www.univ-poitiers.fr",
+	"tags": ["University", "France"]
+    },
+    {
+	"name": "Sorbonne Université",
+	"domain": "sorbonne-universite.fr",
+	"url": "https://www.sorbonne-universite.fr",
+	"tags": ["University", "France"]
+    },
+    {
+	"name": "Université de Montpellier",
+	"domain": "umontpellier.fr",
+	"url": "https://www.umontpellier.fr",
+	"tags": ["University", "France"]
+    },
+    {
+	"name": "Université Paris-Saclay",
+	"domain": "universite-paris-saclay.fr",
+	"url": "https://www.universite-paris-saclay.fr",
+	"tags": ["University", "France"]
+    },
+    {
+	"name": "Université de Bordeaux",
+	"domain": "u-bordeaux.fr",
+	"url": "https://www.u-bordeaux.fr",
+	"tags": ["University", "France"]
+    },
+    {
+	"name": "Université de Bordeaux",
+	"domain": "u-bordeaux.com",
+	"url": "https://www.u-bordeaux.com",
+	"tags": ["University", "France"]
+    },
+    {
+	"name": "Université de Lyon",
+	"domain": "universite-lyon.fr",
+	"url": "https://www.universite-lyon.fr",
+	"tags": ["University", "France"]
+    }
+    {
+	"name": "Universitat de Barcelona",
+	"domain": "ub.edu",
+	"url": "https://www.ub.edu",
+	"tags": ["University", "Spain"]
+    },
+    {
+	"name": "Universitat de Valencia",
+	"domain": "uv.es",
+	"url": "https://www.uv.es",
+	"tags": ["University", "Spain"]
+    },
+    {
+	"name": "Universidad de Salamanca",
+	"domain": "usal.es",
+	"url": "https://www.usal.es",
+	"tags": ["University", "Spain"]
+    },
+    {
+	"name": "Universidad de Granada",
+	"domain": "ugr.es",
+	"url": "https://www.ugr.es",
+	"tags": ["University", "Spain"]
+    },
+    {
+	"name": "Universidad de Deusto",
+	"domain": "deusto.es",
+	"url": "https://www.deusto.es",
+	"tags": ["University", "Spain"]
+    },
+    {
+	"name": "Universidad Complutense Madrid",
+	"domain": "ucm.es",
+	"url": "https://ucm.es",
+	"tags": ["University", "Spain"]
+    }
+xxx
+    {
+	"name": "Universitad de Lisboa",
+	"domain": "ulisboa.pt",
+	"url": "https://www.ulisboa.pt",
+	"tags": ["University", "Portugal"]
+    },
+    {
+	"name": "Universität Wien",
+	"domain": "univie.ac.at",
+	"url": "https://www.univie.ac.at",
+	"tags": ["University", "Austria"]
+    },
+    {
+	"name": "Universität Graz",
+	"domain": "uni-graz.at",
+	"url": "https://www.uni-graz.at",
+	"tags": ["University", "Austria"]
+    },
+    {
+	"name": "Österreichischer Bibliothekenverbund",
+	"domain": "obvsg.at",
+	"url": "https://www.obvsg.at",
+	"tags": ["Library Network", "Austria"]
+    },
+    {
+	"name": "Paris Lodron Universität Salzburg",
+	"domain": "plus.ac.at",
+	"url": "https://www.plus.ac.at",
+	"tags": ["University", "Austria"]
+    },
+    {
+	"name": "Vrije Universiteit Brussel",
+	"domain": "vub.be",
+	"url": "https://www.vub.be",
+	"tags": ["University", "Belgium"]
+    },
+    {
+	"name": "KU Leuven",
+	"domain": "kuleuven.be",
+	"url": "https://www.kuleuven.be",
+	"tags": ["University", "Belgium"]
+    },
+    {
+	"name": "Ghent University",
+	"domain": "ugent.be",
+	"url": "https://www.ugent.be",
+	"tags": ["University", "Belgium"]
+    }
+xxx
+    {
+	"name": "The University of Sydney",
+	"domain": "sydney.edu.au",
+	"url": "https://www.sydney.edu.au",
+	"tags": ["University", "Australia"]
+    },
+    {
+	"name": "The Australian National University",
+	"domain": "anu.edu.au",
+	"url": "https://www.anu.edu.au",
+	"tags": ["University", "Australia"]
+    },
+    {
+	"name": "The University of Melbourne",
+	"domain": "unimelb.edu.au",
+	"url": "https://www.unimelb.edu.au",
+	"tags": ["University", "Australia"]
+    },
+    {
+	"name": "University of Technology Sydney",
+	"domain": "uts.edu.au",
+	"url": "https://www.uts.edu.au",
+	"tags": ["University", "Australia"]
+    },
+    {
+	"name": "The University of Queensland",
+	"domain": "uq.edu.au",
+	"url": "https://www.uq.edu.au",
+	"tags": ["University", "Australia"]
+    },
+    {
+	"name": "Charles Darwin University",
+	"domain": "cdu.edu.au",
+	"url": "https://www.cdu.edu.au",
+	"tags": ["University", "Australia"]
+    },
+    {
+	"name": "Bond University",
+	"domain": "bond.edu.au",
+	"url": "https://bond.edu.au",
+	"tags": ["University", "Australia"]
+    },
+    {
+	"name": "James Cook University",
+	"domain": "jcu.edu.au",
+	"url": "https://www.jcu.edu.au",
+	"tags": ["University", "Australia"]
+    },
+    {
+	"name": "Monash University",
+	"domain": "monash.edu",
+	"url": "https://www.monash.edu",
+	"tags": ["University", "Australia"]
+    }
+    {
+	"name": "University of West Bohemia",
+	"domain": "zcu.cz",
+	"url": "https://www.zcu.cz",
+	"tags": ["University", "Czech Republic"]
+    },
+    {
+	"name": "Charles University",
+	"domain": "cuni.cz",
+	"url": "https://cuni.cz",
+	"tags": ["University", "Czech Republic"]
+    },
+    {
+	"name": "University of Bergen",
+	"domain": "uib.no",
+	"url": "https://www.uib.no",
+	"tags": ["University", "Norway"]
+    },
+    {
+	"name": "University of Oslo",
+	"domain": "uio.no",
+	"url": "https://www.uio.no",
+	"tags": ["University", "Norway"]
+    },
+    {
+	"name": "National and Kapodistrian University of Athens",
+	"domain": "uoa.gr",
+	"url": "https://en.uoa.gr",
+	"tags": ["University", "Greece"]
+    },
+    {
+	"name": "Karolinska Institutet",
+	"domain": "ki.se",
+	"url": "https://ki.se",
+	"tags": ["University", "Sweden"]
+    },
+    {
+	"name": "Lund University",
+	"domain": "lu.se",
+	"url": "https://www.lunduniversity.lu.se",
+	"tags": ["University", "Sweden"]
+    },
+    {
+	"name": "Stockholm University",
+	"domain": "su.se",
+	"url": "https://www.su.se/english",
+	"tags": ["University", "Sweden"]
+    },
+    {
+	"name": "University of Helsinki",
+	"domain": "helsinki.fi",
+	"url": "https://www.helsinki.fi/en",
+	"tags": ["University", "Finland"]
+    },
+    {
+	"name": "University of Copenhagen",
+	"domain": "ku.dk",
+	"url": "https://www.ku.dk/english",
+	"tags": ["University", "Denmark"]
+    },
+    {
+	"name": "University of Southern Denmark",
+	"domain": "sdu.dk",
+	"url": "https://www.sdu.dk/en",
+	"tags": ["University", "Denmark"]
+    },
+    {
+	"name": "Aarhus University",
+	"domain": "au.dk",
+	"url": "https://international.au.dk",
+	"tags": ["University", "Denmark"]
+    },
+    {
+	"name": "University of Warsaw",
+	"domain": "uw.edu.pl",
+	"url": "https://en.uw.edu.pl",
+	"tags": ["University", "Poland"]
+    },
+    {
+	"name": "United Nations University",
+	"domain": "unu.edu",
+	"url": "https://unu.edu",
+	"tags": ["University", "International"]
+    }
+    {
+	"name": "Harvard University",
+	"domain": "harvard.edu",
+	"url": "https://www.harvard.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of California, Berkeley",
+	"domain": "berkeley.edu",
+	"url": "https://www.berkeley.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Massachusetts Institute of Technology",
+	"domain": "web.mit.edu",
+	"url": "http://web.mit.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Stanford University",
+	"domain": "stanford.edu",
+	"url": "https://www.stanford.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of Washington",
+	"domain": "washington.edu",
+	"url": "https://www.washington.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "New York University",
+	"domain": "nyu.edu",
+	"url": "https://www.nyu.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Cornell University",
+	"domain": "cornell.edu",
+	"url": "https://www.cornell.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of Virginia",
+	"domain": "virginia.edu",
+	"url": "https://www.virginia.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Karlsruhe Institute of Technology",
+	"domain": "kit.edu",
+	"url": "https://www.kit.edu",
+	"tags": ["University", "Germany"]
+    },
+    {
+	"name": "North Carolina State University",
+	"domain": "ncsu.edu",
+	"url": "https://www.ncsu.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of Pennsylvania",
+	"domain": "upenn.edu",
+	"url": "https://www.upenn.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Yale University",
+	"domain": "yale.edu",
+	"url": "https://www.yale.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Tufts University",
+	"domain": "tufts.edu",
+	"url": "https://www.tufts.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "The University of Chicago",
+	"domain": "uchicago.edu",
+	"url": "https://www.uchicago.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "The George Washington University",
+	"domain": "gwu.edu",
+	"url": "https://www.gwu.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of California, Santa Barbara",
+	"domain": "ucsb.edu",
+	"url": "https://www.ucsb.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of Pittsburgh",
+	"domain": "pitt.edu",
+	"url": "https://www.pitt.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Brown University",
+	"domain": "brown.edu",
+	"url": "https://www.brown.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of Rhode Island",
+	"domain": "uri.edu",
+	"url": "https://www.uri.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Princeton University",
+	"domain": "princeton.edu",
+	"url": "https://www.princeton.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of California, Santa Cruz",
+	"domain": "ucsc.edu",
+	"url": "https://www.ucsc.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "California State University, Northridge",
+	"domain": "csun.edu",
+	"url": "https://www.csun.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Duke University",
+	"domain": "duke.edu",
+	"url": "https://www.duke.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "California Institute of Technology",
+	"domain": "caltech.edu",
+	"url": "https://www.caltech.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Columbia University",
+	"domain": "columbia.edu",
+	"url": "https://www.columbia.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of Michigan",
+	"domain": "umich.edu",
+	"url": "https://www.umich.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of California, San Francisco",
+	"domain": "ucsf.edu",
+	"url": "https://www.ucsf.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Trinity College",
+	"domain": "trincoll.edu",
+	"url": "https://www.trincoll.edu",
+	"tags": ["College", "USA"]
+    },
+    {
+	"name": "University of California, Los Angeles",
+	"domain": "ucla.edu",
+	"url": "https://www.ucla.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Pennsylvania State University",
+	"domain": "psu.edu",
+	"url": "https://www.psu.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "University of Southern California",
+	"domain": "usc.edu",
+	"url": "https://www.usc.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Johns Hopkins University",
+	"domain": "jhu.edu",
+	"url": "https://www.jhu.edu",
+	"tags": ["University", "USA"]
+    },
+    {
+	"name": "Millersville University",
+	"domain": "millersville.edu",
+	"url": "https://www.millersville.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "University of Arizona",
+	"domain": "arizona.edu",
+	"url": "https://www.arizona.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "Ottawa University",
+	"domain": "ottawa.edu",
+	"url": "https://www.ottawa.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "Boston University",
+	"domain": "bu.edu",
+	"url": "https://www.bu.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "Saint Louis University",
+	"domain": "slu.edu",
+	"url": "https://www.slu.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "Suffolk University",
+	"domain": "suffolk.edu",
+	"url": "https://www.suffolk.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "Indiana University Bloomington",
+	"domain": "indiana.edu",
+	"url": "https://www.indiana.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "Indiana University",
+	"domain": "iu.edu",
+	"url": "https://www.iu.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "University of Wisconsin-Milwaukee",
+	"domain": "uwm.edu",
+	"url": "https://uwm.edu",
+	"tags": ["University", "United States"]
+    },
+    {
+	"name": "Purdue University",
+	"domain": "purdue.edu",
+	"url": "https://www.purdue.edu",
+	"tags": ["University", "United States"]
     }
 ]
