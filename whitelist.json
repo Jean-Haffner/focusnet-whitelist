@@ -88,7 +88,7 @@
 	"domain": "journalfinder.chronoshub.io",
 	"url": "https://journalfinder.chronoshub.io",
 	"tags": ["Database", "Search Engine"]
-    }
+    },
     {
 	"name": "Britannica",
 	"domain": "britannica.com",
@@ -184,7 +184,7 @@
 	"domain": "teara.govt.nz",
 	"url": "https://teara.govt.nz",
 	"tags": ["Encyclopedia", "New Zealand", "Culture", "Government"]
-    }
+    },
     {
 	"name": "British Library",
 	"domain": "bl.uk",
@@ -364,7 +364,7 @@
 	"domain": "kb.dk",
 	"url": "https://www.kb.dk",
 	"tags": ["Library", "Denmark"]
-    }
+    },
     {
 	"name": "New Zealand Tertiary College Students' Association",
 	"domain": "nztcs.org.nz",
@@ -388,12 +388,12 @@
 	"domain": "worldhistory.org",
 	"url": "https://www.worldhistory.org",
 	"tags": ["History", "Reference"]
-    }
+    },
     {
 	"name": "DeepL",
 	"domain": "deepl.com",
 	"url": "https://www.deepl.com",
-	"tags": ["Translation", "Germany", "#FocusNet Selection"]
+	"tags": ["Translation", "Germany", "#Featured"]
     },
     {
 	"name": "AnkiWeb",
@@ -430,8 +430,7 @@
 	"domain": "obsidian.md",
 	"url": "https://obsidian.md",
 	"tags": ["Productivity", "Study Tools", "Software"]
-    }
-xxx
+    },
     {
 	"name": "Universität Bonn",
 	"domain": "uni-bonn.de",
@@ -840,7 +839,7 @@ xxx
 	"domain": "sheffield.ac.uk",
 	"url": "https://www.sheffield.ac.uk",
 	"tags": ["University", "United Kingdom"]
-    }
+    },
     {
 	"name": "Trinity College Dublin",
 	"domain": "tcd.ie",
@@ -870,7 +869,7 @@ xxx
 	"domain": "massey.ac.nz",
 	"url": "https://www.massey.ac.nz",
 	"tags": ["University", "New Zealand"]
-    }
+    },
     {
 	"name": "Universität Zürich",
 	"domain": "uzh.ch",
@@ -973,7 +972,7 @@ xxx
 	"domain": "rug.nl",
 	"url": "https://www.rug.nl",
 	"tags": ["University", "Netherlands"]
-    }
+    },
     {
 	"name": "University of Ottawa",
 	"domain": "uottawa.ca",
@@ -1021,7 +1020,7 @@ xxx
 	"domain": "ualberta.ca",
 	"url": "https://www.ualberta.ca",
 	"tags": ["University", "Canada"]
-    }
+    },
     {
 	"name": "Università degli Studi di Firenze",
 	"domain": "unifi.it",
@@ -1112,7 +1111,7 @@ xxx
 	"domain": "universite-lyon.fr",
 	"url": "https://www.universite-lyon.fr",
 	"tags": ["University", "France"]
-    }
+    },
     {
 	"name": "Universitat de Barcelona",
 	"domain": "ub.edu",
@@ -1252,7 +1251,7 @@ xxx
 	"domain": "monash.edu",
 	"url": "https://www.monash.edu",
 	"tags": ["University", "Australia"]
-    }
+    },
     {
 	"name": "University of West Bohemia",
 	"domain": "zcu.cz",
@@ -1336,7 +1335,7 @@ xxx
 	"domain": "unu.edu",
 	"url": "https://unu.edu",
 	"tags": ["University", "International"]
-    }
+    },
     {
 	"name": "Harvard University",
 	"domain": "harvard.edu",
@@ -1588,5 +1587,179 @@ xxx
 	"domain": "purdue.edu",
 	"url": "https://www.purdue.edu",
 	"tags": ["University", "United States"]
+    },
+    {
+	"name": "Springer",
+	"domain": "springer.com",
+	"url": "https://www.springer.com",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Bundeszentrale für politische Bildung",
+	"domain": "bpb.de",
+	"url": "https://www.bpb.de",
+	"tag": ["Politics"]
+    },
+    {
+	"name": "Suhrkamp Verlag",
+	"domain": "suhrkamp.de",
+	"url": "https://www.suhrkamp.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "S. Fischer Verlage",
+	"domain": "fischerverlage.de",
+	"url": "https://www.fischerverlage.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Hanser Verlag",
+	"domain": "hanser.de",
+	"url": "https://www.hanser.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Vandenhoeck & Ruprecht",
+	"domain": "vandenhoeck-ruprecht-verlage.com",
+	"url": "https://www.vandenhoeck-ruprecht-verlage.com",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Rowohlt",
+	"domain": "rowohlt.de",
+	"url": "https://www.rowohlt.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Reclam",
+	"domain": "reclam.de",
+	"url": "https://www.reclam.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Diogenes Verlag",
+	"domain": "diogenes.ch",
+	"url": "https://www.diogenes.ch",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "De Gruyter",
+	"domain": "degruyter.com",
+	"url": "https://www.degruyter.com",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Elsevier",
+	"domain": "elsevier.com",
+	"url": "https://www.elsevier.com",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "LiWi-Verlag",
+	"domain": "liwi-verlag.de",
+	"url": "https://www.liwi-verlag.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "C.H. Beck oHG",
+	"domain": "beck.de",
+	"url": "https://www.beck.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "C.H. Beck",
+	"domain": "chbeck.de",
+	"url": "https://www.chbeck.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Klostermann",
+	"domain": "klostermann.de",
+	"url": "https://www.klostermann.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "UTB",
+	"domain": "utb.de",
+	"url": "https://www.utb.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Nikol Verlag",
+	"domain": "nikol-verlag.de",
+	"url": "https://www.nikol-verlag.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Thalia Bücher GmbH",
+	"domain": "thalia.de",
+	"url": "https://www.thalia.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "J.B. Metzler",
+	"domain": "metzlerverlag.de",
+	"url": "https://www.metzlerverlag.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Oxford University Press",
+	"domain": "oup.com",
+	"url": "https://global.oup.com",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Meiner Verlag",
+	"domain": "meiner.de",
+	"url": "https://www.meiner.de",
+	"tag": ["Publisher", "Philosophy"]
+    },
+    {
+	"name": "Duncker & Humblot",
+	"domain": "duncker-humblot.de",
+	"url": "https://www.duncker-humblot.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Königshausen & Neumann",
+	"domain": "koenigshausen-neumann.de",
+	"url": "https://verlag.koenigshausen-neumann.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Academia Verlag",
+	"domain": "academia-verlag.de",
+	"url": "https://www.academia-verlag.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Wallstein Verlag",
+	"domain": "wallstein-verlag.de",
+	"url": "https://www.wallstein-verlag.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Mentis",
+	"domain": "mentis.de",
+	"url": "https://www.mentis.de",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Brill",
+	"domain": "brill.com",
+	"url": "https://brill.com",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "World Book",
+	"domain": "worldbook.com",
+	"url": "https://www.worldbook.com",
+	"tag": ["Publisher"]
+    },
+    {
+	"name": "Cuvillier Verlag",
+	"domain": "cuvillier.de",
+	"url": "https://cuvillier.de",
+	"tag": ["Publisher"]
     }
 ]
