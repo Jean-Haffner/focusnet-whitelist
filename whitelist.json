@@ -738,16 +738,16 @@
 	"tags": ["University", "Germany"]
     },
     {
-        "name": "Hochschule Trier",
-        "domain": "hochschule-trier.de",
-        "url": "https://hochschule-trier.de",
-        "tags": ["University", "Germany"]
+	"name": "Hochschule Trier",
+	"domain": "hochschule-trier.de",
+	"url": "https://hochschule-trier.de",
+	"tags": ["University", "Germany"]
     },
     {
-        "name": "Jacobs University Bremen",
-        "domain": "jacobs-university.de",
-        "url": "https://jacobs-university.de",
-        "tags": ["University", "Germany"]
+	"name": "Jacobs University Bremen",
+	"domain": "jacobs-university.de",
+	"url": "https://jacobs-university.de",
+	"tags": ["University", "Germany"]
     },
     {
 	"name": "University of Oxford",
@@ -852,28 +852,28 @@
 	"tags": ["University", "United Kingdom"]
     },
     {
-        "name": "Newcastle University",
-        "domain": "ncl.ac.uk",
-        "url": "https://ncl.ac.uk",
-        "tags": ["University", "United Kingdom"]
+	"name": "Newcastle University",
+	"domain": "ncl.ac.uk",
+	"url": "https://ncl.ac.uk",
+	"tags": ["University", "United Kingdom"]
     },
     {
-        "name": "University of Bristol",
-        "domain": "bristol.ac.uk",
-        "url": "https://bristol.ac.uk",
-        "tags": ["University", "United Kingdom"]
+	"name": "University of Bristol",
+	"domain": "bristol.ac.uk",
+	"url": "https://bristol.ac.uk",
+	"tags": ["University", "United Kingdom"]
     },
     {
-        "name": "University of Birmingham",
-        "domain": "birmingham.ac.uk",
-        "url": "https://birmingham.ac.uk",
-        "tags": ["University", "United Kingdom"]
+	"name": "University of Birmingham",
+	"domain": "birmingham.ac.uk",
+	"url": "https://birmingham.ac.uk",
+	"tags": ["University", "United Kingdom"]
     },
     {
-        "name": "University of Southampton",
-        "domain": "southampton.ac.uk",
-        "url": "https://southampton.ac.uk",
-        "tags": ["University", "United Kingdom"]
+	"name": "University of Southampton",
+	"domain": "southampton.ac.uk",
+	"url": "https://southampton.ac.uk",
+	"tags": ["University", "United Kingdom"]
     },
     {
 	"name": "Trinity College Dublin",
@@ -1332,10 +1332,10 @@
 	"tags": ["University", "Sweden"]
     },
     {
-        "name": "KTH Royal Institute of Technology",
-        "domain": "kth.se",
-        "url": "https://kth.se",
-        "tags": ["University", "Sweden"]
+	"name": "KTH Royal Institute of Technology",
+	"domain": "kth.se",
+	"url": "https://kth.se",
+	"tags": ["University", "Sweden"]
     },
     {
 	"name": "University of Helsinki",
@@ -1362,10 +1362,10 @@
 	"tags": ["University", "Denmark"]
     },
     {
-        "name": "Technical University of Denmark",
-        "domain": "dtu.dk",
-        "url": "https://dtu.dk",
-        "tags": ["University", "Denmark"]
+	"name": "Technical University of Denmark",
+	"domain": "dtu.dk",
+	"url": "https://dtu.dk",
+	"tags": ["University", "Denmark"]
     },
     {
 	"name": "University of Warsaw",
@@ -1632,190 +1632,190 @@
 	"tags": ["University", "United States"]
     },
     {
-        "name": "Florida International University",
-        "domain": "fiu.edu",
-        "url": "https://fiu.edu",
-        "tags": ["University", "United States"]
+	"name": "Florida International University",
+	"domain": "fiu.edu",
+	"url": "https://fiu.edu",
+	"tags": ["University", "United States"]
     },
     {
-        "name": "The Rockefeller University",
-        "domain": "rockefeller.edu",
-        "url": "https://rockefeller.edu",
-        "tags": ["University", "United States"]
+	"name": "The Rockefeller University",
+	"domain": "rockefeller.edu",
+	"url": "https://rockefeller.edu",
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Springer",
 	"domain": "springer.com",
 	"url": "https://www.springer.com",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Bundeszentrale für politische Bildung",
 	"domain": "bpb.de",
 	"url": "https://www.bpb.de",
-	"tag": ["Politics"]
+	"tags": ["Politics"]
     },
     {
 	"name": "Suhrkamp Verlag",
 	"domain": "suhrkamp.de",
 	"url": "https://www.suhrkamp.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "S. Fischer Verlage",
 	"domain": "fischerverlage.de",
 	"url": "https://www.fischerverlage.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Hanser Verlag",
 	"domain": "hanser.de",
 	"url": "https://www.hanser.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Vandenhoeck & Ruprecht",
 	"domain": "vandenhoeck-ruprecht-verlage.com",
 	"url": "https://www.vandenhoeck-ruprecht-verlage.com",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Rowohlt",
 	"domain": "rowohlt.de",
 	"url": "https://www.rowohlt.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Reclam",
 	"domain": "reclam.de",
 	"url": "https://www.reclam.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Diogenes Verlag",
 	"domain": "diogenes.ch",
 	"url": "https://www.diogenes.ch",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "De Gruyter",
 	"domain": "degruyter.com",
 	"url": "https://www.degruyter.com",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Elsevier",
 	"domain": "elsevier.com",
 	"url": "https://www.elsevier.com",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "LiWi-Verlag",
 	"domain": "liwi-verlag.de",
 	"url": "https://www.liwi-verlag.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "C.H. Beck oHG",
 	"domain": "beck.de",
 	"url": "https://www.beck.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "C.H. Beck",
 	"domain": "chbeck.de",
 	"url": "https://www.chbeck.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Klostermann",
 	"domain": "klostermann.de",
 	"url": "https://www.klostermann.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "UTB",
 	"domain": "utb.de",
 	"url": "https://www.utb.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Nikol Verlag",
 	"domain": "nikol-verlag.de",
 	"url": "https://www.nikol-verlag.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Thalia Bücher GmbH",
 	"domain": "thalia.de",
 	"url": "https://www.thalia.de",
-	"tag": ["Books", "Retail"]
+	"tags": ["Books", "Retail"]
     },
     {
 	"name": "J.B. Metzler",
 	"domain": "metzlerverlag.de",
 	"url": "https://www.metzlerverlag.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Oxford University Press",
 	"domain": "oup.com",
 	"url": "https://global.oup.com",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Meiner Verlag",
 	"domain": "meiner.de",
 	"url": "https://www.meiner.de",
-	"tag": ["Publisher", "Philosophy"]
+	"tags": ["Publisher", "Philosophy"]
     },
     {
 	"name": "Duncker & Humblot",
 	"domain": "duncker-humblot.de",
 	"url": "https://www.duncker-humblot.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Königshausen & Neumann",
 	"domain": "koenigshausen-neumann.de",
 	"url": "https://verlag.koenigshausen-neumann.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Academia Verlag",
 	"domain": "academia-verlag.de",
 	"url": "https://www.academia-verlag.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Wallstein Verlag",
 	"domain": "wallstein-verlag.de",
 	"url": "https://www.wallstein-verlag.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Mentis",
 	"domain": "mentis.de",
 	"url": "https://www.mentis.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Brill",
 	"domain": "brill.com",
 	"url": "https://brill.com",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "World Book",
 	"domain": "worldbook.com",
 	"url": "https://www.worldbook.com",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
 	"name": "Cuvillier Verlag",
 	"domain": "cuvillier.de",
 	"url": "https://cuvillier.de",
-	"tag": ["Publisher"]
+	"tags": ["Publisher"]
     },
     {
       "name": "Nomos Shop",
@@ -1845,85 +1845,85 @@
 	"name": "GeoGebra",
 	"domain": "geogebra.org",
 	"url": "https://www.geogebra.org/calculator",
-	"tag": ["Mathematics", "Calculator", "Geometry"]
+	"tags": ["Mathematics", "Calculator", "Geometry"]
     },
     {
 	"name": "Wolfram Alpha",
 	"domain": "wolframalpha.com",
 	"url": "https://www.wolframalpha.com",
-	"tag": ["Mathematics", "Calculator", "Computational Knowledge", "Search Engine", "#Featured"]
+	"tags": ["Mathematics", "Calculator", "Computational Knowledge", "Search Engine", "#Featured"]
     },
     {
 	"name": "Microsoft Math",
 	"domain": "math.microsoft.com",
 	"url": "https://math.microsoft.com",
-	"tag": ["Mathematics", "Calculator"]
+	"tags": ["Mathematics", "Calculator"]
     },
     {
 	"name": "Atomuhr (DE)",
 	"domain": "uhr.ptb.de",
 	"url": "https://uhr.ptb.de",
-	"tag": ["Time", "Government", "Germany"]
+	"tags": ["Time", "Government", "Germany"]
     },
     {
 	"name": "Greenwich Mean Time",
 	"domain": "greenwichmeantime.com",
 	"url": "https://greenwichmeantime.com",
-	"tag": ["Time", "#Featured"]
+	"tags": ["Time", "#Featured"]
     },
     {
 	"name": "Time and Date",
 	"domain": "timeanddate.com",
 	"url": "https://www.timeanddate.com",
-	"tag": ["Time", "Calendar"]
+	"tags": ["Time", "Calendar"]
     },
     {
 	"name": "Zeit und Datum",
 	"domain": "timeanddate.de",
 	"url": "https://www.timeanddate.de",
-	"tag": ["Time", "Calendar"]
+	"tags": ["Time", "Calendar"]
     },
     {
 	"name": "Time.is",
 	"domain": "time.is",
 	"url": "https://time.is",
-	"tag": ["Time"]
+	"tags": ["Time"]
     },
     {
 	"name": "Google Earth",
 	"domain": "earth.google.com",
 	"url": "https://earth.google.com",
-	"tag": ["Maps", "Geography"]
+	"tags": ["Maps", "Geography"]
     },
     {
 	"name": "OpenAIP",
 	"domain": "openaip.net",
 	"url": "https://www.openaip.net",
-	"tag": ["Maps", "Aviation"]
+	"tags": ["Maps", "Aviation"]
     },
     {
 	"name": "OpenStreetMap",
 	"domain": "openstreetmap.org",
 	"url": "https://www.openstreetmap.org",
-	"tag": ["Maps", "Geography"]
+	"tags": ["Maps", "Geography"]
     },
     {
 	"name": "OpenFlightMaps",
 	"domain": "openflightmaps.org",
 	"url": "https://www.openflightmaps.org",
-	"tag": ["Maps", "Navigation"]
+	"tags": ["Maps", "Navigation"]
     },
     {
 	"name": "OpenSeaMap",
 	"domain": "openseamap.org",
 	"url": "https://openseamap.org",
-	"tag": ["Maps", "Navigation"]
+	"tags": ["Maps", "Navigation"]
     },
     {
 	"name": "Musicmap",
 	"domain": "musicmap.info",
 	"url": "https://musicmap.info",
-	"tag": ["Maps", "Music"]
+	"tags": ["Maps", "Music"]
     },
     {
 	"name": "BlueJ",
@@ -2466,27 +2466,27 @@
 	"tags": ["Astronomy", "Research"]
     },
     {
-        "name": "Moodle",
-        "domain": "moodle.org",
-        "url": "https://moodle.org",
-        "tags": ["Education", "Learning Management System"]
+	"name": "Moodle",
+	"domain": "moodle.org",
+	"url": "https://moodle.org",
+	"tags": ["Education", "Learning Management System"]
     },
     {
-        "name": "Senfcall",
-        "domain": "senfcall.de",
-        "url": "https://senfcall.de",
-        "tags": ["Telecommunication", "Services"]
+	"name": "Senfcall",
+	"domain": "senfcall.de",
+	"url": "https://senfcall.de",
+	"tags": ["Telecommunication", "Services"]
     },
     {
-        "name": "Eduroam",
-        "domain": "eduroam.org",
-        "url": "https://eduroam.org",
-        "tags": ["Education", "Internet Access"]
+	"name": "Eduroam",
+	"domain": "eduroam.org",
+	"url": "https://eduroam.org",
+	"tags": ["Education", "Internet Access"]
     },
     {
-        "name": "Zotero",
-        "domain": "zotero.org",
-        "url": "https://zotero.org",
-        "tags": ["Reference Management", "Research"]
+	"name": "Zotero",
+	"domain": "zotero.org",
+	"url": "https://zotero.org",
+	"tags": ["Reference Management", "Research"]
     }
 ]
