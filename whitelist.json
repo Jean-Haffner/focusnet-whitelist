@@ -738,6 +738,18 @@
 	"tags": ["University", "Germany"]
     },
     {
+        "name": "Hochschule Trier",
+        "domain": "hochschule-trier.de",
+        "url": "https://hochschule-trier.de",
+        "tags": ["University", "Germany"]
+    },
+    {
+        "name": "Jacobs University Bremen",
+        "domain": "jacobs-university.de",
+        "url": "https://jacobs-university.de",
+        "tags": ["University", "Germany"]
+    },
+    {
 	"name": "University of Oxford",
 	"domain": "ox.ac.uk",
 	"url": "https://www.ox.ac.uk",
@@ -838,6 +850,30 @@
 	"domain": "sheffield.ac.uk",
 	"url": "https://www.sheffield.ac.uk",
 	"tags": ["University", "United Kingdom"]
+    },
+    {
+        "name": "Newcastle University",
+        "domain": "ncl.ac.uk",
+        "url": "https://ncl.ac.uk",
+        "tags": ["University", "United Kingdom"]
+    },
+    {
+        "name": "University of Bristol",
+        "domain": "bristol.ac.uk",
+        "url": "https://bristol.ac.uk",
+        "tags": ["University", "United Kingdom"]
+    },
+    {
+        "name": "University of Birmingham",
+        "domain": "birmingham.ac.uk",
+        "url": "https://birmingham.ac.uk",
+        "tags": ["University", "United Kingdom"]
+    },
+    {
+        "name": "University of Southampton",
+        "domain": "southampton.ac.uk",
+        "url": "https://southampton.ac.uk",
+        "tags": ["University", "United Kingdom"]
     },
     {
 	"name": "Trinity College Dublin",
@@ -1296,6 +1332,12 @@
 	"tags": ["University", "Sweden"]
     },
     {
+        "name": "KTH Royal Institute of Technology",
+        "domain": "kth.se",
+        "url": "https://kth.se",
+        "tags": ["University", "Sweden"]
+    },
+    {
 	"name": "University of Helsinki",
 	"domain": "helsinki.fi",
 	"url": "https://www.helsinki.fi/en",
@@ -1320,6 +1362,12 @@
 	"tags": ["University", "Denmark"]
     },
     {
+        "name": "Technical University of Denmark",
+        "domain": "dtu.dk",
+        "url": "https://dtu.dk",
+        "tags": ["University", "Denmark"]
+    },
+    {
 	"name": "University of Warsaw",
 	"domain": "uw.edu.pl",
 	"url": "https://en.uw.edu.pl",
@@ -1335,49 +1383,49 @@
 	"name": "Harvard University",
 	"domain": "harvard.edu",
 	"url": "https://www.harvard.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of California, Berkeley",
 	"domain": "berkeley.edu",
 	"url": "https://www.berkeley.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Massachusetts Institute of Technology",
 	"domain": "web.mit.edu",
 	"url": "http://web.mit.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Stanford University",
 	"domain": "stanford.edu",
 	"url": "https://www.stanford.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of Washington",
 	"domain": "washington.edu",
 	"url": "https://www.washington.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "New York University",
 	"domain": "nyu.edu",
 	"url": "https://www.nyu.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Cornell University",
 	"domain": "cornell.edu",
 	"url": "https://www.cornell.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of Virginia",
 	"domain": "virginia.edu",
 	"url": "https://www.virginia.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Karlsruhe Institute of Technology",
@@ -1389,139 +1437,139 @@
 	"name": "North Carolina State University",
 	"domain": "ncsu.edu",
 	"url": "https://www.ncsu.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of Pennsylvania",
 	"domain": "upenn.edu",
 	"url": "https://www.upenn.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Yale University",
 	"domain": "yale.edu",
 	"url": "https://www.yale.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Tufts University",
 	"domain": "tufts.edu",
 	"url": "https://www.tufts.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "The University of Chicago",
 	"domain": "uchicago.edu",
 	"url": "https://www.uchicago.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "The George Washington University",
 	"domain": "gwu.edu",
 	"url": "https://www.gwu.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of California, Santa Barbara",
 	"domain": "ucsb.edu",
 	"url": "https://www.ucsb.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of Pittsburgh",
 	"domain": "pitt.edu",
 	"url": "https://www.pitt.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Brown University",
 	"domain": "brown.edu",
 	"url": "https://www.brown.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of Rhode Island",
 	"domain": "uri.edu",
 	"url": "https://www.uri.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Princeton University",
 	"domain": "princeton.edu",
 	"url": "https://www.princeton.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of California, Santa Cruz",
 	"domain": "ucsc.edu",
 	"url": "https://www.ucsc.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "California State University, Northridge",
 	"domain": "csun.edu",
 	"url": "https://www.csun.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Duke University",
 	"domain": "duke.edu",
 	"url": "https://www.duke.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "California Institute of Technology",
 	"domain": "caltech.edu",
 	"url": "https://www.caltech.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Columbia University",
 	"domain": "columbia.edu",
 	"url": "https://www.columbia.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of Michigan",
 	"domain": "umich.edu",
 	"url": "https://www.umich.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of California, San Francisco",
 	"domain": "ucsf.edu",
 	"url": "https://www.ucsf.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Trinity College",
 	"domain": "trincoll.edu",
 	"url": "https://www.trincoll.edu",
-	"tags": ["College", "USA"]
+	"tags": ["College", "United States"]
     },
     {
 	"name": "University of California, Los Angeles",
 	"domain": "ucla.edu",
 	"url": "https://www.ucla.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Pennsylvania State University",
 	"domain": "psu.edu",
 	"url": "https://www.psu.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "University of Southern California",
 	"domain": "usc.edu",
 	"url": "https://www.usc.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Johns Hopkins University",
 	"domain": "jhu.edu",
 	"url": "https://www.jhu.edu",
-	"tags": ["University", "USA"]
+	"tags": ["University", "United States"]
     },
     {
 	"name": "Millersville University",
@@ -1582,6 +1630,18 @@
 	"domain": "purdue.edu",
 	"url": "https://www.purdue.edu",
 	"tags": ["University", "United States"]
+    },
+    {
+        "name": "Florida International University",
+        "domain": "fiu.edu",
+        "url": "https://fiu.edu",
+        "tags": ["University", "United States"]
+    },
+    {
+        "name": "The Rockefeller University",
+        "domain": "rockefeller.edu",
+        "url": "https://rockefeller.edu",
+        "tags": ["University", "United States"]
     },
     {
 	"name": "Springer",
@@ -2014,5 +2074,419 @@
 	"domain": "ublockorigin.com",
 	"url": "https://www.ublockorigin.com",
 	"tags": ["Privacy", "Ad Blocker", "Security"]
+    },
+    {
+	"name": "Windy",
+	"domain": "windy.com",
+	"url": "https://www.windy.com",
+	"tags": ["Weather", "#Featured"]
+    },
+    {
+	"name": "MetService",
+	"domain": "metservice.com",
+	"url": "https://www.metservice.com",
+	"tags": ["Weather", "New Zealand"]
+    },
+    {
+	"name": "Cambridge Dictionary",
+	"domain": "dictionary.cambridge.org",
+	"url": "https://dictionary.cambridge.org",
+	"tags": ["Dictionary", "Language"]
+    },
+    {
+	"name": "Frag Caesar",
+	"domain": "frag-caesar.de",
+	"url": "https://frag-caesar.de",
+	"tags": ["Latin", "Translation"]
+    },
+    {
+	"name": "Lexico",
+	"domain": "lexico.com",
+	"url": "https://lexico.com",
+	"tags": ["Dictionary", "Language"]
+    },
+    {
+	"name": "MathWorld Wolfram",
+	"domain": "mathworld.wolfram.com",
+	"url": "https://mathworld.wolfram.com",
+	"tags": ["Mathematics", "Reference"]
+    },
+    {
+	"name": "Navigium",
+	"domain": "navigium.de",
+	"url": "https://navigium.de",
+	"tags": ["Latin", "Education"]
+    },
+    {
+	"name": "OpenMD",
+	"domain": "openmd.com",
+	"url": "https://openmd.com",
+	"tags": ["Medical", "Reference"]
+    },
+    {
+	"name": "PONS",
+	"domain": "pons.com",
+	"url": "https://pons.com",
+	"tags": ["Dictionary", "Translation"]
+    },
+    {
+	"name": "Wordflex",
+	"domain": "wordflex.com",
+	"url": "https://wordflex.com",
+	"tags": ["Dictionary", "Language"]
+    },
+    {
+	"name": "Wiktionary",
+	"domain": "wiktionary.org",
+	"url": "https://wiktionary.org",
+	"tags": ["Dictionary", "Open Source"]
+    },
+    {
+	"name": "Larousse",
+	"domain": "larousse.fr",
+	"url": "https://larousse.fr",
+	"tags": ["Dictionary", "French"]
+    },
+    {
+	"name": "Forschungszentrum Jülich",
+	"domain": "fz.juelich.de",
+	"url": "https://fz.juelich.de",
+	"tags": ["Research", "Science"]
+    },
+    {
+	"name": "Robert Koch Institute",
+	"domain": "rki.de",
+	"url": "https://rki.de",
+	"tags": ["Health", "Epidemiology"]
+    },
+    {
+	"name": "Nationallizenzen",
+	"domain": "nationallizenzen.de",
+	"url": "https://nationallizenzen.de",
+	"tags": ["Library", "Academic Access"]
+    },
+    {
+	"name": "Leibniz Library Bonn",
+	"domain": "bonn.leibniz-lib.de",
+	"url": "https://bonn.leibniz-lib.de",
+	"tags": ["Library", "Research"]
+    },
+    {
+	"name": "RCII",
+	"domain": "rcii.de",
+	"url": "https://rcii.de",
+	"tags": ["Research", "Innovation"]
+    },
+    {
+	"name": "Stiftisches Gymnasium",
+	"domain": "www.stiftisches.de",
+	"url": "https://www.stiftisches.de",
+	"tags": ["Education", "School"]
+    },
+    {
+	"name": "Deutsche Forschungsgemeinschaft (DFG)",
+	"domain": "dfg.de",
+	"url": "https://dfg.de",
+	"tags": ["Research", "Funding"]
+    },
+    {
+	"name": "Max Wissen",
+	"domain": "max-wissen.de",
+	"url": "https://max-wissen.de",
+	"tags": ["Education", "Science"]
+    },
+    {
+	"name": "Max Planck Society",
+	"domain": "mpg.de",
+	"url": "https://mpg.de",
+	"tags": ["Research", "Science"]
+    },
+    {
+	"name": "Charité – Universitätsmedizin Berlin",
+	"domain": "charite.de",
+	"url": "https://charite.de",
+	"tags": ["Medical", "University"]
+    },
+    {
+	"name": "Fraunhofer Society",
+	"domain": "fraunhofer.de",
+	"url": "https://fraunhofer.de",
+	"tags": ["Applied Research", "Technology"]
+    },
+    {
+	"name": "Helmholtz Open Science",
+	"domain": "os.helmholtz.de",
+	"url": "https://os.helmholtz.de",
+	"tags": ["Science", "Open Access"]
+    },
+    {
+	"name": "Helmholtz Munich",
+	"domain": "helmholtz-munich.de",
+	"url": "https://helmholtz-munich.de",
+	"tags": ["Health", "Research"]
+    },
+    {
+	"name": "Helmholtz HZI",
+	"domain": "helmholtz-hzi.de",
+	"url": "https://helmholtz-hzi.de",
+	"tags": ["Infection Research", "Health"]
+    },
+    {
+	"name": "German Cancer Research Center (DKFZ)",
+	"domain": "dkfz.de",
+	"url": "https://dkfz.de",
+	"tags": ["Cancer Research", "Health"]
+    },
+    {
+	"name": "Technology and Methods Platform for Networked Medical Research (TMF e.V.)",
+	"domain": "tmf-ev.de",
+	"url": "https://tmf-ev.de",
+	"tags": ["Medical Research", "Networking"]
+    },
+    {
+	"name": "University Hospital Bonn",
+	"domain": "ukbonn.de",
+	"url": "https://ukbonn.de",
+	"tags": ["Medical", "University"]
+    },
+    {
+	"name": "Gesellschaft für Musikforschung",
+	"domain": "musikforschung.de",
+	"url": "https://musikforschung.de",
+	"tags": ["Music", "Research"]
+    },
+    {
+	"name": "Academy of Media Arts Cologne (KHM)",
+	"domain": "khm.de",
+	"url": "https://khm.de",
+	"tags": ["Media", "Arts", "Education"]
+    },
+    {
+	"name": "Physikalisch-Technische Bundesanstalt (PTB)",
+	"domain": "ptb.de",
+	"url": "https://ptb.de",
+	"tags": ["Metrology", "Research"]
+    },
+    {
+	"name": "Beilstein-Institut",
+	"domain": "beilstein-institut.de",
+	"url": "https://beilstein-institut.de",
+	"tags": ["Chemistry", "Research"]
+    },
+    {
+	"name": "Hochschulbibliothekszentrum NRW",
+	"domain": "hbz-nrw.de",
+	"url": "https://hbz-nrw.de",
+	"tags": ["Library", "Education"]
+    },
+    {
+	"name": "Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)",
+	"domain": "bbaw.de",
+	"url": "https://bbaw.de",
+	"tags": ["Academy", "Research"]
+    },
+    {
+	"name": "Union of the German Academies of Sciences and Humanities",
+	"domain": "akademienunion.de",
+	"url": "https://akademienunion.de",
+	"tags": ["Academy", "Science"]
+    },
+    {
+	"name": "Bavarian Academy of Sciences and Humanities (BADW)",
+	"domain": "badw.de",
+	"url": "https://badw.de",
+	"tags": ["Academy", "Research"]
+    },
+    {
+	"name": "International Centre for Philosophy NRW (IZPH)",
+	"domain": "izph.de",
+	"url": "https://izph.de",
+	"tags": ["Philosophy", "Research"]
+    },
+    {
+	"name": "Biosciences Network",
+	"domain": "biosc.de",
+	"url": "https://biosc.de",
+	"tags": ["Biology", "Research"]
+    },
+    {
+	"name": "German Ethics Council (Ethikrat)",
+	"domain": "ethikrat.org",
+	"url": "https://ethikrat.org",
+	"tags": ["Ethics", "Research"]
+    },
+    {
+	"name": "Leopoldina – National Academy of Sciences",
+	"domain": "leopoldina.org",
+	"url": "https://leopoldina.org",
+	"tags": ["Science", "Academy"]
+    },
+    {
+	"name": "German Archaeological Institute (DAI)",
+	"domain": "dainst.org",
+	"url": "https://dainst.org",
+	"tags": ["Archaeology", "Research"]
+    },
+    {
+	"name": "History and Philosophy of Physics",
+	"domain": "history-and-philosophy-of-physics.com",
+	"url": "https://history-and-philosophy-of-physics.com",
+	"tags": ["Physics", "Philosophy"]
+    },
+    {
+	"name": "Creative Commons",
+	"domain": "creativecommons.org",
+	"url": "https://creativecommons.org",
+	"tags": ["Open Access", "Licensing"]
+    },
+    {
+	"name": "Brain Preservation Foundation",
+	"domain": "brainpreservation.org",
+	"url": "https://brainpreservation.org",
+	"tags": ["Health", "Neuroscience"]
+    },
+    {
+	"name": "Mayo Clinic",
+	"domain": "mayoclinic.org",
+	"url": "https://mayoclinic.org",
+	"tags": ["Medical", "Health"]
+    },
+    {
+	"name": "MIZ (Max Planck Institute for Human Cognitive and Brain Sciences)",
+	"domain": "miz.org",
+	"url": "https://miz.org",
+	"tags": ["Research", "Neuroscience"]
+    },
+    {
+	"name": "UNESCO",
+	"domain": "unesco.org",
+	"url": "https://unesco.org",
+	"tags": ["International", "Cultural Heritage"]
+    },
+    {
+	"name": "Nobel Prize",
+	"domain": "nobelprize.org",
+	"url": "https://nobelprize.org",
+	"tags": ["Awards", "Science"]
+    },
+    {
+	"name": "EOSC Hub",
+	"domain": "eosc-hub.eu",
+	"url": "https://eosc-hub.eu",
+	"tags": ["Research", "Infrastructure"]
+    },
+    {
+	"name": "EOSC Portal",
+	"domain": "eosc-portal.eu",
+	"url": "https://eosc-portal.eu",
+	"tags": ["Research", "Data"]
+    },
+    {
+	"name": "Lister Institute of Preventive Medicine",
+	"domain": "lister-institute.org.uk",
+	"url": "https://lister-institute.org.uk",
+	"tags": ["Medical", "Research"]
+    },
+    {
+	"name": "Lloyd's Register Foundation",
+	"domain": "lcfi.ac.uk",
+	"url": "https://lcfi.ac.uk",
+	"tags": ["Safety", "Research"]
+    },
+    {
+	"name": "World Health Organization (WHO)",
+	"domain": "who.int",
+	"url": "https://who.int",
+	"tags": ["Health", "International"]
+    },
+    {
+	"name": "International Civil Aviation Organization (ICAO)",
+	"domain": "icao.int",
+	"url": "https://icao.int",
+	"tags": ["Aviation", "International"]
+    },
+    {
+	"name": "Centers for Disease Control and Prevention (CDC)",
+	"domain": "cdc.gov",
+	"url": "https://cdc.gov",
+	"tags": ["Health", "Public Safety"]
+    },
+    {
+	"name": "NASA",
+	"domain": "nasa.gov",
+	"url": "https://nasa.gov",
+	"tags": ["Space", "Science"]
+    },
+    {
+	"name": "Cognitive Science Society",
+	"domain": "cognitivesciencesociety.org",
+	"url": "https://cognitivesciencesociety.org",
+	"tags": ["Cognitive Science", "Research"]
+    },
+    {
+	"name": "The New School",
+	"domain": "newschool.org",
+	"url": "https://newschool.org",
+	"tags": ["Education", "University"]
+    },
+    {
+	"name": "School of Advanced Study (SAS)",
+	"domain": "sas.ac.uk",
+	"url": "https://sas.ac.uk",
+	"tags": ["Education", "Research"]
+    },
+    {
+	"name": "Archaeology Data Service",
+	"domain": "archaeologydataservice.ac.uk",
+	"url": "https://archaeologydataservice.ac.uk",
+	"tags": ["Archaeology", "Data"]
+    },
+    {
+	"name": "The Digital Archaeological Record (tDAR)",
+	"domain": "tdar.org",
+	"url": "https://tdar.org",
+	"tags": ["Archaeology", "Data"]
+    },
+    {
+	"name": "Archaeological Institute of America",
+	"domain": "archaeological.org",
+	"url": "https://archaeological.org",
+	"tags": ["Archaeology", "Research"]
+    },
+    {
+	"name": "American Psychological Association (APA)",
+	"domain": "apaonline.org",
+	"url": "https://apaonline.org",
+	"tags": ["Psychology", "Research"]
+    },
+    {
+	"name": "Event Horizon Telescope",
+	"domain": "eventhorizontelescope.org",
+	"url": "https://eventhorizontelescope.org",
+	"tags": ["Astronomy", "Research"]
+    },
+    {
+        "name": "Moodle",
+        "domain": "moodle.org",
+        "url": "https://moodle.org",
+        "tags": ["Education", "Learning Management System"]
+    },
+    {
+        "name": "Senfcall",
+        "domain": "senfcall.de",
+        "url": "https://senfcall.de",
+        "tags": ["Telecommunication", "Services"]
+    },
+    {
+        "name": "Eduroam",
+        "domain": "eduroam.org",
+        "url": "https://eduroam.org",
+        "tags": ["Education", "Internet Access"]
+    },
+    {
+        "name": "Zotero",
+        "domain": "zotero.org",
+        "url": "https://zotero.org",
+        "tags": ["Reference Management", "Research"]
     }
 ]
