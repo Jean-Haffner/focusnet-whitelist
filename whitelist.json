@@ -1959,7 +1959,7 @@
 	"name": "Moodle",
 	"domain": "moodle.org",
 	"url": "https://www.moodle.org",
-	"tags": ["Education", "E-learning", "Software"]
+	"tags": ["Education", "E-learning", "Cloud-based LMS"]
     },
     {
 	"name": "Zorin OS",
@@ -2484,12 +2484,6 @@
 	"tags": ["Astronomy", "Research"]
     },
     {
-	"name": "Moodle",
-	"domain": "moodle.org",
-	"url": "https://moodle.org",
-	"tags": ["Education", "Learning Management System"]
-    },
-    {
 	"name": "Senfcall",
 	"domain": "senfcall.de",
 	"url": "https://senfcall.de",
@@ -2736,9 +2730,105 @@
 	"tags": ["Software", "Build System", "Global"]
     },
     {
-        "name": "LaTeX Project",
-        "domain": "latex-project.org",
-        "url": "https://latex-project.org",
-        "tags": ["Software", "Typesetting", "Open Source"]
+	"name": "LaTeX Project",
+	"domain": "latex-project.org",
+	"url": "https://latex-project.org",
+	"tags": ["Software", "Typesetting", "Open Source"]
+    },
+    {
+	"name": "WISO-net",
+	"domain": "wiso-net.de",
+	"url": "https://wiso-net.de",
+	"tags": ["Databases", "Research", "Germany"]
+    },
+    {
+	"name": "ProQuest",
+	"domain": "proquest.com",
+	"url": "https://proquest.com",
+	"tags": ["Databases", "Research", "United States"]
+    },
+    {
+	"name": "Wolters Kluwer",
+	"domain": "wolterskluwer.com",
+	"url": "https://wolterskluwer.com",
+	"tags": ["Publishing", "Professional Information", "Netherlands"]
+    },
+    {
+	"name": "PhilIndex",
+	"domain": "philindex.org",
+	"url": "https://philindex.org",
+	"tags": ["Philosophy", "Research"]
+    },
+    {
+	"name": "Digibib",
+	"domain": "digibib.net",
+	"url": "https://digibib.net",
+	"tags": ["Library Resources", "Research"]
+    },
+    {
+	"name": "PhilArchive",
+	"domain": "philarchive.org",
+	"url": "https://philarchive.org",
+	"tags": ["Philosophy", "Open Access", "Research"]
+    },
+    {
+	"name": "Karlsruhe Institute of Technology (KIT)",
+	"domain": "kit.edu",
+	"url": "https://kit.edu",
+	"tags": ["Education", "Germany"]
+    },
+    {
+	"name": "Karlsruhe Virtual Catalog (KVK)",
+	"domain": "kvk.bibliothek.kit.edu",
+	"url": "https://kvk.bibliothek.kit.edu",
+	"tags": ["Library Resources", "Research", "Germany"]
+    },
+    {
+	"name": "JSTOR",
+	"domain": "jstor.org",
+	"url": "https://jstor.org",
+	"tags": ["Databases", "Academic Journals", "United States"]
+    },
+    {
+	"name": "Peeters Publishers",
+	"domain": "poj.peeters-leuven.be",
+	"url": "https://poj.peeters-leuven.be",
+	"tags": ["Academic Publishing", "Belgium"]
+    },
+    {
+	"name": "Shibboleth",
+	"domain": "shibboleth.net",
+	"url": "https://shibboleth.net",
+	"tags": ["Authentication", "Identity Management"]
+    },
+    {
+	"name": "Scilit",
+	"domain": "scilit.net",
+	"url": "https://scilit.net",
+	"tags": ["Research", "Citation Indexing"]
+    },
+    {
+	"name": "Anna's Archive",
+	"domain": "annas-archive.org",
+	"url": "https://annas-archive.org",
+	"tags": ["Books", "Open Access"]
+    },
+    {
+	"name": "Scholars Direct",
+	"domain": "scholars.direct",
+	"url": "https://scholars.direct",
+	"tags": ["Open Access", "Research"]
+    },
+    {
+	"name": "Zenodo",
+	"domain": "zenodo.org",
+	"url": "https://zenodo.org",
+	"tags": ["Open Access", "Research", "Repository"]
+    },
+    {
+	"name": "Sciebo",
+	"domain": "sciebo.de",
+	"url": "https://sciebo.de",
+	"tags": ["Academic Cloud Storage", "Non-profit", "Germany"]
     }
 ]
