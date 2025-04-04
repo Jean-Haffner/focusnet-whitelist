@@ -1212,6 +1212,18 @@
 	"tags": ["University", "Austria"]
     },
     {
+	"name": "Johannes Kepler University Linz (JKU)",
+	"domain": "jku.at",
+	"url": "https://jku.at",
+	"tags": ["Education", "Austria"]
+    },
+    {
+	"name": "Veterinary University Vienna (Vetmeduni)",
+	"domain": "vetmeduni.ac.at",
+	"url": "https://vetmeduni.ac.at",
+	"tags": ["Education", "Veterinary", "Austria"]
+    },
+    {
 	"name": "Vrije Universiteit Brussel",
 	"domain": "vub.be",
 	"url": "https://www.vub.be",
@@ -2646,12 +2658,6 @@
 	"tags": ["Reference", "Abbreviations"]
     },
     {
-	"name": "HowStuffWorks",
-	"domain": "howstuffworks.com",
-	"url": "https://howstuffworks.com",
-	"tags": ["Education", "Explanatory", "United States"]
-    },
-    {
 	"name": "Larousse Encyclopédie",
 	"domain": "larousse.fr/encyclopedie",
 	"url": "https://larousse.fr/encyclopedie",
@@ -2702,8 +2708,8 @@
     {
 	"name": "DocCheck",
 	"domain": "doccheck.com",
-	"url": "https://doccheck.com",
-	"tags": ["Medical", "Healthcare", "Germany"]
+	"url": "https://flexikon.doccheck.com",
+	"tags": ["Medical", "Healthcare", "Germany", "#Featured"]
     },
     {
 	"name": "Routledge",
@@ -2728,5 +2734,11 @@
 	"domain": "cmake.org",
 	"url": "https://cmake.org",
 	"tags": ["Software", "Build System", "Global"]
+    },
+    {
+        "name": "LaTeX Project",
+        "domain": "latex-project.org",
+        "url": "https://latex-project.org",
+        "tags": ["Software", "Typesetting", "Open Source"]
     }
 ]
