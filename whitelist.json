@@ -1626,6 +1626,12 @@
 	"tags": ["University", "United States"]
     },
     {
+	"name": "Bowling Green State University",
+	"domain": "bgsu.edu",
+	"url": "https://bgsu.edu",
+	"tags": ["University", "United States"]
+    },
+    {
 	"name": "Purdue University",
 	"domain": "purdue.edu",
 	"url": "https://www.purdue.edu",
@@ -2488,5 +2494,95 @@
 	"domain": "zotero.org",
 	"url": "https://zotero.org",
 	"tags": ["Reference Management", "Research"]
+    },
+    {
+	"name": "Vivaldi",
+	"domain": "vivaldi.com",
+	"url": "https://vivaldi.com",
+	"tags": ["Web Browser", "Privacy"]
+    },
+    {
+	"name": "LibreWolf",
+	"domain": "librewolf.net",
+	"url": "https://librewolf.net",
+	"tags": ["Web Browser", "Privacy", "Open Source"]
+    },
+    {
+	"name": "Schwabe Online",
+	"domain": "schwabeonline.ch",
+	"url": "https://www.schwabeonline.ch",
+	"tags": ["Publishing", "Books", "Switzerland"]
+    },
+    {
+	"name": "Grin",
+	"domain": "grin.com",
+	"url": "https://www.grin.com",
+	"tags": ["Academic Publishing", "Books"]
+    },
+    {
+	"name": "Google Maps",
+	"domain": "google.com/maps",
+	"url": "https://www.google.com/maps",
+	"tags": ["Maps", "Navigation"]
+    },
+    {
+	"name": "VirusTotal",
+	"domain": "virustotal.com",
+	"url": "https://virustotal.com",
+	"tags": ["Cybersecurity", "Scanning"]
+    },
+    {
+	"name": "EBSCO Information Services",
+	"domain": "ebsco.com",
+	"url": "https://ebsco.com",
+	"tags": ["Databases", "Academic Publishing"]
+    },
+    {
+	"name": "Google Fonts",
+	"domain": "fonts.google.com",
+	"url": "https://fonts.google.com",
+	"tags": ["Design", "Typography"]
+    },
+    {
+	"name": "Infobase",
+	"domain": "infobase.com",
+	"url": "https://infobase.com",
+	"tags": ["Education", "Digital Resources"]
+    },
+    {
+	"name": "Scopus",
+	"domain": "scopus.com",
+	"url": "https://scopus.com",
+	"tags": ["Academic Indexing", "Research"]
+    },
+    {
+	"name": "Clarivate",
+	"domain": "clarivate.com",
+	"url": "https://clarivate.com",
+	"tags": ["Analytics", "Academic Publishing"]
+    },
+    {
+	"name": "Radiopaedia",
+	"domain": "radiopaedia.org",
+	"url": "https://radiopaedia.org",
+	"tags": ["Radiology", "Medical Education"]
+    },
+    {
+	"name": "Codeberg",
+	"domain": "codeberg.org",
+	"url": "https://codeberg.org",
+	"tags": ["Code Hosting", "Germany", "Open Source"]
+    },
+    {
+	"name": "METR (Model Evaluation and Testing Research)",
+	"domain": "metr.org",
+	"url": "https://metr.org",
+	"tags": ["AI Safety", "Research", "United States"]
+    },
+    {
+	"name": "OpenRefine",
+	"domain": "openrefine.org",
+	"url": "https://openrefine.org",
+	"tags": ["Data Cleaning", "Open Source"]
     }
 ]
