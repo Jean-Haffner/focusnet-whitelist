@@ -372,7 +372,7 @@
 	"tags": ["Student Association", "New Zealand"]
     },
     {
-	"name": "INPhO Project",
+	"name": "Internet Philosophy Ontology Project (INPhO)",
 	"domain": "inphoproject.org",
 	"url": "https://inphoproject.org",
 	"tags": ["Philosophy", "Ontology"]
@@ -2610,10 +2610,16 @@
 	"tags": ["Clinical Decision Support", "Medical Reference", "United States"]
     },
     {
-	"name": "Medscape",
+	"name": "Medscape News",
 	"domain": "medscape.com",
-	"url": "https://medscape.com",
+	"url": "https://www.medscape.com",
 	"tags": ["Medical News", "Clinical Reference", "United States"]
+    },
+    {
+	"name": "Medscape CME",
+	"domain": "medscape.org",
+	"url": "https://www.medscape.org",
+	"tags": ["Medical Education", "Clinical Reference", "United States"]
     },
     {
 	"name": "Rote Liste",
@@ -2754,7 +2760,7 @@
 	"tags": ["Publishing", "Professional Information", "Netherlands"]
     },
     {
-	"name": "PhilIndex",
+	"name": "The Philosopher’s Index",
 	"domain": "philindex.org",
 	"url": "https://philindex.org",
 	"tags": ["Philosophy", "Research"]
@@ -2830,5 +2836,11 @@
 	"domain": "sciebo.de",
 	"url": "https://sciebo.de",
 	"tags": ["Academic Cloud Storage", "Non-profit", "Germany"]
+    },
+    {
+	"name": "Deutscher Wetterdienst (DWD)",
+	"domain": "dwd.de",
+	"url": "https://dwd.de",
+	"tags": ["Meteorology", "Weather", "Germany"]
     }
 ]
