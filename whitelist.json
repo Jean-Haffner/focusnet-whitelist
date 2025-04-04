@@ -2517,7 +2517,7 @@
 	"name": "Grin",
 	"domain": "grin.com",
 	"url": "https://www.grin.com",
-	"tags": ["Academic Publishing", "Books"]
+	"tags": ["Academic Publishing", "Self-Publishing", "Books"]
     },
     {
 	"name": "Google Maps",
@@ -2584,5 +2584,47 @@
 	"domain": "openrefine.org",
 	"url": "https://openrefine.org",
 	"tags": ["Data Cleaning", "Open Source"]
+    },
+    {
+	"name": "PathologyOutlines",
+	"domain": "pathologyoutlines.com",
+	"url": "https://pathologyoutlines.com",
+	"tags": ["Pathology", "Medical Reference", "United States"]
+    },
+    {
+	"name": "The Bottom Line",
+	"domain": "thebottomline.org.uk",
+	"url": "https://thebottomline.org.uk",
+	"tags": ["Critical Care", "Medical Education", "United Kingdom"]
+    },
+    {
+	"name": "UpToDate",
+	"domain": "uptodate.com",
+	"url": "https://uptodate.com/contents/search",
+	"tags": ["Clinical Decision Support", "Medical Reference", "United States"]
+    },
+    {
+	"name": "Medscape",
+	"domain": "medscape.com",
+	"url": "https://medscape.com",
+	"tags": ["Medical News", "Clinical Reference", "United States"]
+    },
+    {
+	"name": "Rote Liste",
+	"domain": "rote-liste.de",
+	"url": "https://rote-liste.de",
+	"tags": ["Pharmaceuticals", "Drug Database", "Germany"]
+    },
+    {
+	"name": "Gelbe Liste",
+	"domain": "gelbe-liste.de",
+	"url": "https://gelbe-liste.de",
+	"tags": ["Pharmaceuticals", "Drug Database", "Germany"]
+    },
+    {
+	"name": "AMBOSS",
+	"domain": "amboss.com",
+	"url": "https://amboss.com",
+	"tags": ["Medical Education", "Clinical Reference", "Germany"]
     }
 ]
