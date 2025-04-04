@@ -2626,5 +2626,107 @@
 	"domain": "amboss.com",
 	"url": "https://amboss.com",
 	"tags": ["Medical Education", "Clinical Reference", "Germany"]
+    },
+    {
+	"name": "Infoplease",
+	"domain": "infoplease.com",
+	"url": "https://infoplease.com",
+	"tags": ["Reference", "Encyclopedia", "United States"]
+    },
+    {
+	"name": "Symbols",
+	"domain": "symbols.com",
+	"url": "https://symbols.com",
+	"tags": ["Reference", "Symbols"]
+    },
+    {
+	"name": "Abbreviations",
+	"domain": "abbreviations.com",
+	"url": "https://abbreviations.com",
+	"tags": ["Reference", "Abbreviations"]
+    },
+    {
+	"name": "HowStuffWorks",
+	"domain": "howstuffworks.com",
+	"url": "https://howstuffworks.com",
+	"tags": ["Education", "Explanatory", "United States"]
+    },
+    {
+	"name": "Larousse Encyclopédie",
+	"domain": "larousse.fr/encyclopedie",
+	"url": "https://larousse.fr/encyclopedie",
+	"tags": ["Reference", "Encyclopedia", "France"]
+    },
+    {
+	"name": "MedlinePlus",
+	"domain": "medlineplus.gov",
+	"url": "https://medlineplus.gov",
+	"tags": ["Health", "Medical Reference", "United States"]
+    },
+    {
+	"name": "Reference.com",
+	"domain": "reference.com",
+	"url": "https://reference.com",
+	"tags": ["Reference", "General Information"]
+    },
+    {
+	"name": "Who2",
+	"domain": "who2.com",
+	"url": "https://who2.com",
+	"tags": ["Biography", "Reference", "United States"]
+    },
+    {
+	"name": "Wikisource",
+	"domain": "wikisource.org",
+	"url": "https://wikisource.org",
+	"tags": ["Open Content", "Reference", "Global"]
+    },
+    {
+	"name": "Wikiversity",
+	"domain": "wikiversity.org",
+	"url": "https://wikiversity.org",
+	"tags": ["Education", "Open Source", "Global"]
+    },
+    {
+	"name": "Oracle Documentation",
+	"domain": "docs.oracle.com",
+	"url": "https://docs.oracle.com",
+	"tags": ["Software", "Documentation", "United States"]
+    },
+    {
+	"name": "Python Documentation",
+	"domain": "docs.python.org",
+	"url": "https://docs.python.org",
+	"tags": ["Programming", "Documentation", "Global"]
+    },
+    {
+	"name": "DocCheck",
+	"domain": "doccheck.com",
+	"url": "https://doccheck.com",
+	"tags": ["Medical", "Healthcare", "Germany"]
+    },
+    {
+	"name": "Routledge",
+	"domain": "routledge.com",
+	"url": "https://routledge.com",
+	"tags": ["Publishing", "Academic", "United Kingdom"]
+    },
+    {
+	"name": "Wikimedia Foundation",
+	"domain": "wikimedia.org",
+	"url": "https://wikimedia.org",
+	"tags": ["Non-profit", "Open Knowledge", "Global"]
+    },
+    {
+	"name": "Brockhaus",
+	"domain": "brockhaus.de",
+	"url": "https://brockhaus.de",
+	"tags": ["Encyclopedia", "Reference", "Germany"]
+    },
+    {
+	"name": "CMake",
+	"domain": "cmake.org",
+	"url": "https://cmake.org",
+	"tags": ["Software", "Build System", "Global"]
     }
 ]
