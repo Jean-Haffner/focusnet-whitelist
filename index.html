@@ -105,7 +105,12 @@
         return response.json();
       })
       .then(data => {
-        data.sort((a, b) => a.name.localeCompare(b.name));
+        data.sort((a, b) => {
+          const aFeatured = a.tags.includes("#Featured") ? 0 : 1;
+          const bFeatured = b.tags.includes("#Featured") ? 0 : 1;
+          if (aFeatured !== bFeatured) return aFeatured - bFeatured;
+          return a.name.localeCompare(b.name);
+        });
         fullData = data;
         renderList(fullData);
       })
